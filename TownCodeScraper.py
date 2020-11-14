@@ -1,12 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 def search_cadastral_code_in_pages(page_list):
     for url in page_list:
         if not "redlink" in url:
             resp = requests.get(url=url)
             soup = BeautifulSoup(resp.content, 'html.parser')
-            tr_list = soup.find_all('tr')
 
             td = soup.select('th')
             town_name = td[0].contents[0]
@@ -21,6 +21,7 @@ def search_cadastral_code_in_pages(page_list):
                     print(town_name, code, province)
                     break
 
+
 def main():
     min_year = 1930
     base_url = "https://it.wikipedia.org"
@@ -33,9 +34,11 @@ def main():
         source_town_pages = []
         target_town_pages = []
         i = 0
+
         while i < len(links) and not links[i]['title'].isnumeric():
             source_town_pages.append(base_url + links[i]['href'])
             i = i+1
+
         if i < len(links):
             year = links[i]['title']
             if int(year) >= min_year:
