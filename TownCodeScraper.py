@@ -1,10 +1,18 @@
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse, parse_qs
+
+town_without_page_list = []
 
 
 def search_cadastral_code_in_pages(page_list):
     for url in page_list:
-        if not "redlink" in url:
+        if "redlink" in url:
+            params = parse_qs(urlparse(url).query)
+            if "title" in params:
+                town_title = params['title'][0].replace("_", " ").replace("%27", "'")
+                town_without_page_list.append(town_title)
+        else:
             resp = requests.get(url=url)
             soup = BeautifulSoup(resp.content, 'html.parser')
 
@@ -37,22 +45,23 @@ def main():
 
         while i < len(links) and not links[i]['title'].isnumeric():
             source_town_pages.append(base_url + links[i]['href'])
-            i = i+1
+            i = i + 1
 
         if i < len(links):
             year = links[i]['title']
             if int(year) >= min_year:
-                i = i+1
-                while i < len(links) and not "cite_note" in links[i]['href'] and not links[i]['title'].isnumeric():
+                i = i + 1
+                while i < len(links) and "cite_note" not in links[i]['href'] and not links[i]['title'].isnumeric():
                     target_town_pages.append(base_url + links[i]['href'])
-                    i = i+1
+                    i = i + 1
 
                 search_cadastral_code_in_pages(source_town_pages)
                 search_cadastral_code_in_pages(target_town_pages)
 
                 print(links)
 
+    print(town_without_page_list)
+
 
 if __name__ == '__main__':
     main()
-
