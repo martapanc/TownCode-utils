@@ -1,0 +1,1 @@
+Simple tool for web-scraping the list of suppressed Italian towns on Wikipedia
