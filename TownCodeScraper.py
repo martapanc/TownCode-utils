@@ -30,12 +30,17 @@ def search_cadastral_code_in_pages(page_list):
                     break
 
 
-def main():
+def search_cadastral_code_of_town(town_name):
+    response = requests.get("https://calcolocf.com/codice-catastale.html?comune={}".format(town_name))
+    soup = BeautifulSoup(response.content, 'html.parser')
+    cadastral_code = soup.find("div", {"class": "codice_catastale"}).text
+    return cadastral_code
+
+
+def wikipedia_scraper():
     min_year = 1930
     base_url = "https://it.wikipedia.org"
-
     soup = BeautifulSoup(open("comunisoppressi.html"), "html.parser")
-
     li_list = soup.find_all('li')
     for li in li_list:
         links = li.findAll('a', href=True)
@@ -59,8 +64,11 @@ def main():
                 search_cadastral_code_in_pages(target_town_pages)
 
                 print(links)
-
     print(town_without_page_list)
+
+
+def main():
+    wikipedia_scraper()
 
 
 if __name__ == '__main__':
