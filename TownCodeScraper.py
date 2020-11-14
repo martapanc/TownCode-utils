@@ -5,22 +5,26 @@ def search_cadastral_code_in_pages(page_list):
     for url in page_list:
         if not "redlink" in url:
             resp = requests.get(url=url)
-            page_soup = BeautifulSoup(resp.content, 'html.parser')
-            tr_list = page_soup.find_all('tr')
+            soup = BeautifulSoup(resp.content, 'html.parser')
+            tr_list = soup.find_all('tr')
 
-            td = page_soup.select('th')
+            td = soup.select('th')
+            town_name = td[0].contents[0]
+
             for name, val in zip(td, td[1:]):
                 a = name.find_next('a')
                 if a.has_attr('title') and "catastale" in a['title']:
                     code = name.parent.find_next('td').text.replace('\n', '')
-                    print(code)
+                    province_node = name.parent.find_next('tr').find('td')
+                    province = province_node.text.replace('\n', '') if province_node is not None else "-"
+                    province = province if len(province) == 2 else "-"
+                    print(town_name, code, province)
                     break
 
 def main():
     min_year = 1930
     base_url = "https://it.wikipedia.org"
 
-    # soup = BeautifulSoup(response.content, 'html.parser')
     soup = BeautifulSoup(open("comunisoppressi.html"), "html.parser")
 
     li_list = soup.find_all('li')
