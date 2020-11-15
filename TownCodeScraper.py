@@ -1,6 +1,9 @@
+import json
+import re
+from urllib.parse import urlparse, parse_qs
+
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse, parse_qs
 
 town_without_page_list = []
 
@@ -33,8 +36,12 @@ def search_cadastral_code_in_pages(page_list):
 def search_cadastral_code_of_town(town_name):
     response = requests.get("https://calcolocf.com/codice-catastale.html?comune={}".format(town_name))
     soup = BeautifulSoup(response.content, 'html.parser')
-    cadastral_code = soup.find("div", {"class": "codice_catastale"}).text
-    return cadastral_code
+    cadastral_code = soup.find("div", {"class": "codice_catastale"})
+    town_code = soup.find("a", href=re.compile("comune="))
+    if cadastral_code is not None:
+        return cadastral_code.text, \
+               town_code.text.replace(town_name, "").replace(" ", "").replace("(", "").replace(")", "")
+    return "", ""
 
 
 def wikipedia_scraper():
@@ -67,8 +74,24 @@ def wikipedia_scraper():
     print(town_without_page_list)
 
 
+def print_to_json(output_list):
+    with open('data.json', 'w') as output:
+        json.dump(output_list, output)
+
+
 def main():
     wikipedia_scraper()
+    print(town_without_page_list)
+
+    result_list = []
+    for town in town_without_page_list:
+        cadastral, code = search_cadastral_code_of_town(town)
+        result_list.append({
+            "cc": cadastral,
+            "id": town,
+            "p": code
+        })
+    print_to_json(result_list)
 
 
 if __name__ == '__main__':
