@@ -5,10 +5,13 @@ from urllib.parse import urlparse, parse_qs
 import requests
 from bs4 import BeautifulSoup
 
+from sort_town_list import remove_duplicates, write_json
+
 town_without_page_list = []
 
 
 def search_cadastral_code_in_pages(page_list):
+    output_list = []
     for url in page_list:
         if "redlink" in url:
             params = parse_qs(urlparse(url).query)
@@ -25,12 +28,20 @@ def search_cadastral_code_in_pages(page_list):
             for name, val in zip(td, td[1:]):
                 a = name.find_next('a')
                 if a.has_attr('title') and "catastale" in a['title']:
-                    code = name.parent.find_next('td').text.replace('\n', '')
+                    cadastral = name.parent.find_next('td').text.replace('\n', '')
                     province_node = name.parent.find_next('tr').find('td')
                     province = province_node.text.replace('\n', '') if province_node is not None else "-"
                     province = province if len(province) == 2 else "-"
-                    print(town_name, code, province)
+                    print(town_name, cadastral, province)
+
+                    output_list.append({
+                        "cc": cadastral,
+                        "id": town_name,
+                        "p": province
+                    })
                     break
+
+    return output_list
 
 
 def search_cadastral_code_of_town(town_name):
@@ -45,10 +56,12 @@ def search_cadastral_code_of_town(town_name):
 
 
 def wikipedia_scraper():
+    output_list = []
     min_year = 1930
     base_url = "https://it.wikipedia.org"
     soup = BeautifulSoup(open("comunisoppressi.html"), "html.parser")
     li_list = soup.find_all('li')
+
     for li in li_list:
         links = li.findAll('a', href=True)
         source_town_pages = []
@@ -67,11 +80,9 @@ def wikipedia_scraper():
                     target_town_pages.append(base_url + links[i]['href'])
                     i = i + 1
 
-                search_cadastral_code_in_pages(source_town_pages)
-                search_cadastral_code_in_pages(target_town_pages)
+                output_list = output_list + search_cadastral_code_in_pages(source_town_pages) + search_cadastral_code_in_pages(target_town_pages)
 
-                print(links)
-    print(town_without_page_list)
+    write_json(output_list, "soppressi")
 
 
 def print_to_json(output_list):
@@ -85,11 +96,11 @@ def main():
 
     result_list = []
     for town in town_without_page_list:
-        cadastral, code = search_cadastral_code_of_town(town)
+        cadastral, province = search_cadastral_code_of_town(town)
         result_list.append({
             "cc": cadastral,
             "id": town,
-            "p": code
+            "p": province
         })
     print_to_json(result_list)
 

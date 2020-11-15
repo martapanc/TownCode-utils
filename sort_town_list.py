@@ -9,14 +9,15 @@ def read_json():
         write_json(town_list)
 
 
-def write_json(town_list):
-    with open('files/comuni_sorted.json', 'w') as output:
+def write_json(town_list, mode):
+    with open('files/comuni_{}.json'.format(mode), 'w') as output:
         json.dump({"towns": town_list}, output, indent=4)
 
 
 def remove_duplicates(town_list):
     unique = {each["id"]: each for each in town_list}.values()
     print(unique)
+    return unique
 
 
 if __name__ == '__main__':
