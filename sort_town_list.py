@@ -2,11 +2,12 @@ import json
 
 
 def read_json():
-    with open('files/comuni.json') as json_file:
+    with open('files/comuni_soppressi.json') as json_file:
         town_list = json.load(json_file)['towns']
         town_list.sort(key=lambda s: s['id'])
 
-        write_json(town_list)
+    return town_list
+        # write_json(town_list)
 
 
 def write_json(town_list, mode):
@@ -16,10 +17,9 @@ def write_json(town_list, mode):
 
 def remove_duplicates(town_list):
     unique = {each["id"]: each for each in town_list}.values()
-    print(unique)
-    return unique
+    return [d for d in unique]
 
 
 if __name__ == '__main__':
     # read_json()
-    remove_duplicates([{"id": "ciao", "cc": 1}, {"id": "ciao", "cc": 2}])
+    write_json(remove_duplicates(read_json()), "soppressi_sorted")

@@ -1,0 +1,2499 @@
+{
+    "towns": [
+        {
+            "cc": "A012",
+            "id": "Abetone",
+            "p": "PT"
+        },
+        {
+            "cc": "M376",
+            "id": "Abetone Cutigliano",
+            "p": "PT"
+        },
+        {
+            "cc": "A031",
+            "id": "Acquacanina",
+            "p": "MC"
+        },
+        {
+            "cc": "A041",
+            "id": "Acquappesa",
+            "p": "CS"
+        },
+        {
+            "cc": "A042",
+            "id": "Acquarica del Capo",
+            "p": "LE"
+        },
+        {
+            "cc": "A119",
+            "id": "Alagna Valsesia",
+            "p": "VC"
+        },
+        {
+            "cc": "A133",
+            "id": "Albanova",
+            "p": "CE"
+        },
+        {
+            "cc": "M375",
+            "id": "Alpago",
+            "p": "BL"
+        },
+        {
+            "cc": "M386",
+            "id": "Alta Val Tidone",
+            "p": "PC"
+        },
+        {
+            "cc": "M349",
+            "id": "Altavalle",
+            "p": "TN"
+        },
+        {
+            "cc": "M369",
+            "id": "Alto Reno Terme",
+            "p": "BO"
+        },
+        {
+            "cc": "M389",
+            "id": "Alto Sermenza",
+            "p": "VC"
+        },
+        {
+            "cc": "M350",
+            "id": "Altopiano della Vigolana",
+            "p": "TN"
+        },
+        {
+            "cc": "A245",
+            "id": "Alzano Scrivia",
+            "p": "AL"
+        },
+        {
+            "cc": "A260",
+            "id": "Amblar",
+            "p": "TN"
+        },
+        {
+            "cc": "M351",
+            "id": "Amblar-Don",
+            "p": "TN"
+        },
+        {
+            "cc": "A323",
+            "id": "Anzio",
+            "p": "RM"
+        },
+        {
+            "cc": "A360",
+            "id": "Arcade",
+            "p": "TV"
+        },
+        {
+            "cc": "A403",
+            "id": "Arienzo",
+            "p": "CE"
+        },
+        {
+            "cc": "A456",
+            "id": "Arzene",
+            "p": "PN"
+        },
+        {
+            "cc": "A483",
+            "id": "Atella di Napoli",
+            "p": "CE"
+        },
+        {
+            "cc": "A493",
+            "id": "Auditore",
+            "p": "PU"
+        },
+        {
+            "cc": "A509",
+            "id": "Avellino",
+            "p": "AV"
+        },
+        {
+            "cc": "A584",
+            "id": "Bairo",
+            "p": "TO"
+        },
+        {
+            "cc": "M401",
+            "id": "Barbarano Mossano",
+            "p": "VI"
+        },
+        {
+            "cc": "A627",
+            "id": "Barbarano Vicentino",
+            "p": "VI"
+        },
+        {
+            "cc": "A639",
+            "id": "Barchi",
+            "p": "PU"
+        },
+        {
+            "cc": "A662",
+            "id": "Bari",
+            "p": "BA"
+        },
+        {
+            "cc": "A703",
+            "id": "Bassano del Grappa",
+            "p": "VI"
+        },
+        {
+            "cc": "A726",
+            "id": "Bazzano",
+            "p": "BO"
+        },
+        {
+            "cc": "A738",
+            "id": "Belforte Monferrato",
+            "p": "AL"
+        },
+        {
+            "cc": "A753",
+            "id": "Bellizzi Irpino",
+            "p": "AV"
+        },
+        {
+            "cc": "A755",
+            "id": "Bellona",
+            "p": "CE"
+        },
+        {
+            "cc": "A806",
+            "id": "Berra",
+            "p": "FE"
+        },
+        {
+            "cc": "A808",
+            "id": "Bersone",
+            "p": "TN"
+        },
+        {
+            "cc": "A821",
+            "id": "Besenello",
+            "p": "TN"
+        },
+        {
+            "cc": "A837",
+            "id": "Bevilacqua",
+            "p": "VR"
+        },
+        {
+            "cc": "A839",
+            "id": "Bezzecca",
+            "p": "TN"
+        },
+        {
+            "cc": "A859",
+            "id": "Biella",
+            "p": "BI"
+        },
+        {
+            "cc": "A900",
+            "id": "Bleggio",
+            "p": "TN"
+        },
+        {
+            "cc": "A901",
+            "id": "Bleggio Inferiore",
+            "p": "TN"
+        },
+        {
+            "cc": "A902",
+            "id": "Bleggio Superiore",
+            "p": "TN"
+        },
+        {
+            "cc": "A922",
+            "id": "Bogliasco",
+            "p": "GE"
+        },
+        {
+            "cc": "A923",
+            "id": "Bogliasco Pieve",
+            "p": "GE"
+        },
+        {
+            "cc": "A933",
+            "id": "Bolbeno",
+            "p": "TN"
+        },
+        {
+            "cc": "A944",
+            "id": "Bologna",
+            "p": "BO"
+        },
+        {
+            "cc": "A967",
+            "id": "Bondo",
+            "p": "TN"
+        },
+        {
+            "cc": "A426",
+            "id": "Bondo Breguzzo",
+            "p": "TN"
+        },
+        {
+            "cc": "B005",
+            "id": "Borgio Verezzi",
+            "p": "SV"
+        },
+        {
+            "cc": "M352",
+            "id": "Borgo Chiese",
+            "p": "TN"
+        },
+        {
+            "cc": "M353",
+            "id": "Borgo Lares",
+            "p": "TN"
+        },
+        {
+            "cc": "M421",
+            "id": "Borgo Valbelluna",
+            "p": "BL"
+        },
+        {
+            "cc": "M402",
+            "id": "Borgo Veneto",
+            "p": "PD"
+        },
+        {
+            "cc": "B070",
+            "id": "Boschi Sant'Anna",
+            "p": "VR"
+        },
+        {
+            "cc": "B078",
+            "id": "Bosentino",
+            "p": "TN"
+        },
+        {
+            "cc": "M299",
+            "id": "Boville",
+            "p": "RM"
+        },
+        {
+            "cc": "B135",
+            "id": "Breguzzo",
+            "p": "TN"
+        },
+        {
+            "cc": "B136",
+            "id": "Breia",
+            "p": "VC"
+        },
+        {
+            "cc": "B160",
+            "id": "Bressanone",
+            "p": "BZ"
+        },
+        {
+            "cc": "B165",
+            "id": "Brez",
+            "p": "TN"
+        },
+        {
+            "cc": "B175",
+            "id": "Briga Alta",
+            "p": "CN"
+        },
+        {
+            "cc": "B185",
+            "id": "Brione",
+            "p": "TN"
+        },
+        {
+            "cc": "B283",
+            "id": "Busana",
+            "p": "RE"
+        },
+        {
+            "cc": "B354",
+            "id": "Cagliari",
+            "p": "CA"
+        },
+        {
+            "cc": "B359",
+            "id": "Cagno",
+            "p": "CO"
+        },
+        {
+            "cc": "B419",
+            "id": "Calliano",
+            "p": "TN"
+        },
+        {
+            "cc": "B479",
+            "id": "Caminata",
+            "p": "PC"
+        },
+        {
+            "cc": "M373",
+            "id": "Campiglia Cervo (nuovo)",
+            "p": "BI"
+        },
+        {
+            "cc": "B508",
+            "id": "Campiglia Cervo (vecchio)",
+            "p": "BI"
+        },
+        {
+            "cc": "M311",
+            "id": "Campolongo Tapogliano",
+            "p": "UD"
+        },
+        {
+            "cc": "B547",
+            "id": "Campolongo sul Brenta",
+            "p": "VI"
+        },
+        {
+            "cc": "B718",
+            "id": "Caraffa del Bianco",
+            "p": "RC"
+        },
+        {
+            "cc": "B723",
+            "id": "Carano",
+            "p": "TN"
+        },
+        {
+            "cc": "B745",
+            "id": "Carbonia",
+            "p": "SU"
+        },
+        {
+            "cc": "B814",
+            "id": "Carpasio",
+            "p": "IM"
+        },
+        {
+            "cc": "B832",
+            "id": "Carrara",
+            "p": "MS"
+        },
+        {
+            "cc": "B872",
+            "id": "Casal di Principe",
+            "p": "CE"
+        },
+        {
+            "cc": "B883",
+            "id": "Casaleggio Novara",
+            "p": "NO"
+        },
+        {
+            "cc": "M385",
+            "id": "Casali del Manco",
+            "p": "CS"
+        },
+        {
+            "cc": "B916",
+            "id": "Casaluce",
+            "p": "CE"
+        },
+        {
+            "cc": "A559",
+            "id": "Casciana Terme",
+            "p": "PI"
+        },
+        {
+            "cc": "M327",
+            "id": "Casciana Terme Lari",
+            "p": "PI"
+        },
+        {
+            "cc": "B966",
+            "id": "Casignana",
+            "p": "RC"
+        },
+        {
+            "cc": "B983",
+            "id": "Casole Bruzio",
+            "p": "CS"
+        },
+        {
+            "cc": "C071",
+            "id": "Castel Colonna",
+            "p": "AN"
+        },
+        {
+            "cc": "M354",
+            "id": "Castel Ivano",
+            "p": "TN"
+        },
+        {
+            "cc": "C103",
+            "id": "Castelfondo",
+            "p": "TN"
+        },
+        {
+            "cc": "M322",
+            "id": "Castelfranco Piandiscò",
+            "p": "AR"
+        },
+        {
+            "cc": "C112",
+            "id": "Castelfranco di Sopra",
+            "p": "AR"
+        },
+        {
+            "cc": "C146",
+            "id": "Castellavazzo",
+            "p": "BL"
+        },
+        {
+            "cc": "C149",
+            "id": "Castellazzo Novarese",
+            "p": "NO"
+        },
+        {
+            "cc": "C191",
+            "id": "Castello di Serravalle",
+            "p": "BO"
+        },
+        {
+            "cc": "C196",
+            "id": "Castelluccio",
+            "p": "PZ"
+        },
+        {
+            "cc": "C199",
+            "id": "Castelluccio Inferiore",
+            "p": "PZ"
+        },
+        {
+            "cc": "C201",
+            "id": "Castelluccio Superiore",
+            "p": "PZ"
+        },
+        {
+            "cc": "C214",
+            "id": "Castelnuovo di Ceva",
+            "p": "CN"
+        },
+        {
+            "cc": "C450",
+            "id": "Cellio",
+            "p": "VC"
+        },
+        {
+            "cc": "M398",
+            "id": "Cellio con Breia",
+            "p": "VC"
+        },
+        {
+            "cc": "C452",
+            "id": "Cembra",
+            "p": "TN"
+        },
+        {
+            "cc": "M355",
+            "id": "Cembra Lisignago",
+            "p": "TN"
+        },
+        {
+            "cc": "C467",
+            "id": "Centa San Nicolò",
+            "p": "TN"
+        },
+        {
+            "cc": "C526",
+            "id": "Cerreto Castello",
+            "p": "BI"
+        },
+        {
+            "cc": "C593",
+            "id": "Challand-Saint-Anselme",
+            "p": "AO"
+        },
+        {
+            "cc": "C594",
+            "id": "Challand-Saint-Victor",
+            "p": "AO"
+        },
+        {
+            "cc": "C622",
+            "id": "Chiavazza",
+            "p": "VC"
+        },
+        {
+            "cc": "C694",
+            "id": "Cimego",
+            "p": "TN"
+        },
+        {
+            "cc": "C734",
+            "id": "Cismon del Grappa",
+            "p": "VI"
+        },
+        {
+            "cc": "C770",
+            "id": "Civitanova Marche",
+            "p": "MC"
+        },
+        {
+            "cc": "C797",
+            "id": "Cloz",
+            "p": "TN"
+        },
+        {
+            "cc": "C830",
+            "id": "Colbordolo",
+            "p": "PU"
+        },
+        {
+            "cc": "C840",
+            "id": "Collagna",
+            "p": "RE"
+        },
+        {
+            "cc": "C868",
+            "id": "Colleretto Giacosa",
+            "p": "TO"
+        },
+        {
+            "cc": "M380",
+            "id": "Colli al Metauro",
+            "p": "PU"
+        },
+        {
+            "cc": "M314",
+            "id": "Comano Terme",
+            "p": "TN"
+        },
+        {
+            "cc": "C944",
+            "id": "Concei",
+            "p": "TN"
+        },
+        {
+            "cc": "C949",
+            "id": "Conco",
+            "p": "VI"
+        },
+        {
+            "cc": "C953",
+            "id": "Condino",
+            "p": "TN"
+        },
+        {
+            "cc": "C955",
+            "id": "Condove",
+            "p": "TO"
+        },
+        {
+            "cc": "M356",
+            "id": "Contà",
+            "p": "TN"
+        },
+        {
+            "cc": "C994",
+            "id": "Coredo",
+            "p": "TN"
+        },
+        {
+            "cc": "D005",
+            "id": "Corigliano Calabro",
+            "p": "CS"
+        },
+        {
+            "cc": "M403",
+            "id": "Corigliano-Rossano",
+            "p": "CS"
+        },
+        {
+            "cc": "D046",
+            "id": "Corsione",
+            "p": "AT"
+        },
+        {
+            "cc": "D094",
+            "id": "Cossato",
+            "p": "BI"
+        },
+        {
+            "cc": "D157",
+            "id": "Crespano del Grappa",
+            "p": "TV"
+        },
+        {
+            "cc": "D158",
+            "id": "Crespellano",
+            "p": "BO"
+        },
+        {
+            "cc": "D160",
+            "id": "Crespina",
+            "p": "PI"
+        },
+        {
+            "cc": "M328",
+            "id": "Crespina Lorenzana",
+            "p": "PI"
+        },
+        {
+            "cc": "D182",
+            "id": "Crosa",
+            "p": "BI"
+        },
+        {
+            "cc": "D206",
+            "id": "Cunevo",
+            "p": "TN"
+        },
+        {
+            "cc": "D235",
+            "id": "Cutigliano",
+            "p": "PT"
+        },
+        {
+            "cc": "D243",
+            "id": "Daiano",
+            "p": "TN"
+        },
+        {
+            "cc": "D248",
+            "id": "Daone",
+            "p": "TN"
+        },
+        {
+            "cc": "D250",
+            "id": "Darè",
+            "p": "TN"
+        },
+        {
+            "cc": "D272",
+            "id": "Denice",
+            "p": "AL"
+        },
+        {
+            "cc": "M366",
+            "id": "Dimaro Folgarida",
+            "p": "TN"
+        },
+        {
+            "cc": "D336",
+            "id": "Don",
+            "p": "TN"
+        },
+        {
+            "cc": "D349",
+            "id": "Dorsino",
+            "p": "TN"
+        },
+        {
+            "cc": "M300",
+            "id": "Due Carrare",
+            "p": "PD"
+        },
+        {
+            "cc": "D399",
+            "id": "Elmas",
+            "p": "CA"
+        },
+        {
+            "cc": "D449",
+            "id": "Fabbriche di Vallico",
+            "p": "LU"
+        },
+        {
+            "cc": "M319",
+            "id": "Fabbriche di Vergemoli",
+            "p": "LU"
+        },
+        {
+            "cc": "D457",
+            "id": "Faedo",
+            "p": "TN"
+        },
+        {
+            "cc": "D506",
+            "id": "Farra d'Alpago",
+            "p": "BL"
+        },
+        {
+            "cc": "D516",
+            "id": "Faver",
+            "p": "TN"
+        },
+        {
+            "cc": "D520",
+            "id": "Favria",
+            "p": "TO"
+        },
+        {
+            "cc": "D558",
+            "id": "Fertilia",
+            "p": "CE"
+        },
+        {
+            "cc": "D564",
+            "id": "Fiastra",
+            "p": "MC"
+        },
+        {
+            "cc": "D572",
+            "id": "Fiera di Primiero",
+            "p": "TN"
+        },
+        {
+            "cc": "D583",
+            "id": "Figline Valdarno",
+            "p": "FI"
+        },
+        {
+            "cc": "M321",
+            "id": "Figline e Incisa Valdarno",
+            "p": "FI"
+        },
+        {
+            "cc": "D609",
+            "id": "Fiordimonte",
+            "p": "MC"
+        },
+        {
+            "cc": "M323",
+            "id": "Fiscaglia",
+            "p": "FE"
+        },
+        {
+            "cc": "D627",
+            "id": "Fiumicello",
+            "p": "UD"
+        },
+        {
+            "cc": "M400",
+            "id": "Fiumicello Villa Vicentina",
+            "p": "UD"
+        },
+        {
+            "cc": "D631",
+            "id": "Flavon",
+            "p": "TN"
+        },
+        {
+            "cc": "D663",
+            "id": "Fondo",
+            "p": "TN"
+        },
+        {
+            "cc": "D713",
+            "id": "Formignana",
+            "p": "FE"
+        },
+        {
+            "cc": "D726",
+            "id": "Forno di Zoldo",
+            "p": "BL"
+        },
+        {
+            "cc": "D777",
+            "id": "Frassinello Monferrato",
+            "p": "AL"
+        },
+        {
+            "cc": "D779",
+            "id": "Frassinere",
+            "p": "TO"
+        },
+        {
+            "cc": "D799",
+            "id": "Frignano",
+            "p": "CE"
+        },
+        {
+            "cc": "D808",
+            "id": "Frontone",
+            "p": "PU"
+        },
+        {
+            "cc": "D856",
+            "id": "Gaiola",
+            "p": "CN"
+        },
+        {
+            "cc": "D874",
+            "id": "Gallicano",
+            "p": "LU"
+        },
+        {
+            "cc": "D888",
+            "id": "Galtellì",
+            "p": "NU"
+        },
+        {
+            "cc": "E017",
+            "id": "Giarre",
+            "p": "CT"
+        },
+        {
+            "cc": "E021",
+            "id": "Giavera del Montello",
+            "p": "TV"
+        },
+        {
+            "cc": "E059",
+            "id": "Giuncugnano",
+            "p": "LU"
+        },
+        {
+            "cc": "E067",
+            "id": "Givoletto",
+            "p": "TO"
+        },
+        {
+            "cc": "E135",
+            "id": "Granaglione",
+            "p": "BO"
+        },
+        {
+            "cc": "E138",
+            "id": "Grancona",
+            "p": "VI"
+        },
+        {
+            "cc": "E150",
+            "id": "Grauno",
+            "p": "TN"
+        },
+        {
+            "cc": "E166",
+            "id": "Gressoney (Gressonei)",
+            "p": "AO"
+        },
+        {
+            "cc": "E167",
+            "id": "Gressoney-La-Trinité",
+            "p": "AO"
+        },
+        {
+            "cc": "E168",
+            "id": "Gressoney-Saint-Jean",
+            "p": "AO"
+        },
+        {
+            "cc": "E222",
+            "id": "Grumes",
+            "p": "TN"
+        },
+        {
+            "cc": "E242",
+            "id": "Guardia Piemontese",
+            "p": "CS"
+        },
+        {
+            "cc": "E263",
+            "id": "Guidonia Montecelio",
+            "p": "RM"
+        },
+        {
+            "cc": "E288",
+            "id": "Imèr",
+            "p": "TN"
+        },
+        {
+            "cc": "E296",
+            "id": "Incisa in Val d'Arno",
+            "p": "FI"
+        },
+        {
+            "cc": "E306",
+            "id": "Introd",
+            "p": "AO"
+        },
+        {
+            "cc": "E323",
+            "id": "Irgoli",
+            "p": "NU"
+        },
+        {
+            "cc": "E365",
+            "id": "Ispani",
+            "p": "SA"
+        },
+        {
+            "cc": "E378",
+            "id": "Ivano Fracena",
+            "p": "TN"
+        },
+        {
+            "cc": "E394",
+            "id": "La Cassa",
+            "p": "TO"
+        },
+        {
+            "cc": "E458",
+            "id": "La Salle",
+            "p": "AO"
+        },
+        {
+            "cc": "E417",
+            "id": "Laino Borgo",
+            "p": "CS"
+        },
+        {
+            "cc": "E419",
+            "id": "Laino Castello",
+            "p": "CS"
+        },
+        {
+            "cc": "M208",
+            "id": "Lamezia Terme",
+            "p": "CZ"
+        },
+        {
+            "cc": "E452",
+            "id": "Lardaro",
+            "p": "TN"
+        },
+        {
+            "cc": "E455",
+            "id": "Lari",
+            "p": "PI"
+        },
+        {
+            "cc": "E468",
+            "id": "Laterina",
+            "p": "AR"
+        },
+        {
+            "cc": "M392",
+            "id": "Laterina Pergine Valdarno",
+            "p": "AR"
+        },
+        {
+            "cc": "M313",
+            "id": "Ledro",
+            "p": "TN"
+        },
+        {
+            "cc": "C562",
+            "id": "Lentiai",
+            "p": "BL"
+        },
+        {
+            "cc": "M371",
+            "id": "Lessona",
+            "p": "BI"
+        },
+        {
+            "cc": "E585",
+            "id": "Ligonchio",
+            "p": "RE"
+        },
+        {
+            "cc": "E586",
+            "id": "Ligosullo",
+            "p": "UD"
+        },
+        {
+            "cc": "E614",
+            "id": "Lisignago",
+            "p": "TN"
+        },
+        {
+            "cc": "E646",
+            "id": "Loculi",
+            "p": "NU"
+        },
+        {
+            "cc": "E658",
+            "id": "Lomaso",
+            "p": "TN"
+        },
+        {
+            "cc": "M342",
+            "id": "Longarone",
+            "p": "BL"
+        },
+        {
+            "cc": "E683",
+            "id": "Loranzè",
+            "p": "TO"
+        },
+        {
+            "cc": "E688",
+            "id": "Lorenzana",
+            "p": "PI"
+        },
+        {
+            "cc": "E697",
+            "id": "Loseto",
+            "p": "BA"
+        },
+        {
+            "cc": "E762",
+            "id": "Lusiana",
+            "p": "VI"
+        },
+        {
+            "cc": "M427",
+            "id": "Lusiana Conco",
+            "p": "VI"
+        },
+        {
+            "cc": "E784",
+            "id": "Macerata Campania",
+            "p": "CE"
+        },
+        {
+            "cc": "E866",
+            "id": "Malosco",
+            "p": "TN"
+        },
+        {
+            "cc": "E869",
+            "id": "Malvagna",
+            "p": "ME"
+        },
+        {
+            "cc": "E958",
+            "id": "Marino",
+            "p": "RM"
+        },
+        {
+            "cc": "E970",
+            "id": "Marostica",
+            "p": "VI"
+        },
+        {
+            "cc": "F019",
+            "id": "Mason Vicentino",
+            "p": "VI"
+        },
+        {
+            "cc": "F023",
+            "id": "Massa",
+            "p": "MS"
+        },
+        {
+            "cc": "F026",
+            "id": "Massa Fiscaglia",
+            "p": "FE"
+        },
+        {
+            "cc": "F091",
+            "id": "Megliadino San Fidenzio",
+            "p": "PD"
+        },
+        {
+            "cc": "F094",
+            "id": "Mel",
+            "p": "BL"
+        },
+        {
+            "cc": "F123",
+            "id": "Mendatica",
+            "p": "IM"
+        },
+        {
+            "cc": "F124",
+            "id": "Mendatica Montegrosso",
+            "p": "IM"
+        },
+        {
+            "cc": "F140",
+            "id": "Mercenasco",
+            "p": "TO"
+        },
+        {
+            "cc": "F174",
+            "id": "Mezzani",
+            "p": "PR"
+        },
+        {
+            "cc": "F176",
+            "id": "Mezzano",
+            "p": "TN"
+        },
+        {
+            "cc": "F177",
+            "id": "Mezzano Imer",
+            "p": "TN"
+        },
+        {
+            "cc": "F198",
+            "id": "Migliarino",
+            "p": "FE"
+        },
+        {
+            "cc": "F199",
+            "id": "Migliaro",
+            "p": "FE"
+        },
+        {
+            "cc": "F235",
+            "id": "Mirabello",
+            "p": "FE"
+        },
+        {
+            "cc": "F254",
+            "id": "Moasca",
+            "p": "AT"
+        },
+        {
+            "cc": "F255",
+            "id": "Mocchie",
+            "p": "TO"
+        },
+        {
+            "cc": "F279",
+            "id": "Moiola",
+            "p": "CN"
+        },
+        {
+            "cc": "F277",
+            "id": "Mojo Alcantara",
+            "p": "ME"
+        },
+        {
+            "cc": "F286",
+            "id": "Molina di Ledro",
+            "p": "TN"
+        },
+        {
+            "cc": "F293",
+            "id": "Molino dei Torti",
+            "p": "AL"
+        },
+        {
+            "cc": "F306",
+            "id": "Molvena",
+            "p": "VI"
+        },
+        {
+            "cc": "F338",
+            "id": "Monchiero",
+            "p": "CN"
+        },
+        {
+            "cc": "F341",
+            "id": "Monclassico",
+            "p": "TN"
+        },
+        {
+            "cc": "F358",
+            "id": "Monforte d'Alba",
+            "p": "CN"
+        },
+        {
+            "cc": "F396",
+            "id": "Montagne",
+            "p": "TN"
+        },
+        {
+            "cc": "M378",
+            "id": "Montalcino",
+            "p": "SI"
+        },
+        {
+            "cc": "M387",
+            "id": "Montalto Carpasio",
+            "p": "IM"
+        },
+        {
+            "cc": "F406",
+            "id": "Montalto Ligure",
+            "p": "IM"
+        },
+        {
+            "cc": "F476",
+            "id": "Monte Colombo",
+            "p": "RN"
+        },
+        {
+            "cc": "A561",
+            "id": "Montecatini Terme",
+            "p": "PT"
+        },
+        {
+            "cc": "F466",
+            "id": "Montecelio",
+            "p": "RM"
+        },
+        {
+            "cc": "F472",
+            "id": "Montechiaro Denice",
+            "p": "AL"
+        },
+        {
+            "cc": "F469",
+            "id": "Montechiaro d'Acqui",
+            "p": "AL"
+        },
+        {
+            "cc": "F474",
+            "id": "Monteciccardo",
+            "p": "PU"
+        },
+        {
+            "cc": "F528",
+            "id": "Montegrosso Pian Latte",
+            "p": "IM"
+        },
+        {
+            "cc": "M380",
+            "id": "Montemaggiore al Metauro",
+            "p": "PU"
+        },
+        {
+            "cc": "F593",
+            "id": "Monterado",
+            "p": "AN"
+        },
+        {
+            "cc": "F641",
+            "id": "Montescudo",
+            "p": "RN"
+        },
+        {
+            "cc": "M368",
+            "id": "Montescudo-Monte Colombo",
+            "p": "RN"
+        },
+        {
+            "cc": "F659",
+            "id": "Monteveglio",
+            "p": "BO"
+        },
+        {
+            "cc": "F666",
+            "id": "Montezemolo",
+            "p": "CN"
+        },
+        {
+            "cc": "M302",
+            "id": "Montiglio Monferrato",
+            "p": "AT"
+        },
+        {
+            "cc": "F679",
+            "id": "Montignoso",
+            "p": "MS"
+        },
+        {
+            "cc": "M330",
+            "id": "Montoro",
+            "p": "AV"
+        },
+        {
+            "cc": "F693",
+            "id": "Montoro Inferiore",
+            "p": "AV"
+        },
+        {
+            "cc": "F694",
+            "id": "Montoro Superiore",
+            "p": "AV"
+        },
+        {
+            "cc": "F726",
+            "id": "Morgex",
+            "p": "AO"
+        },
+        {
+            "cc": "F768",
+            "id": "Mossano",
+            "p": "VI"
+        },
+        {
+            "cc": "M304",
+            "id": "Mosso",
+            "p": "BI"
+        },
+        {
+            "cc": "F769",
+            "id": "Mosso Santa Maria",
+            "p": "BI"
+        },
+        {
+            "cc": "F837",
+            "id": "Nanno",
+            "p": "TN"
+        },
+        {
+            "cc": "F853",
+            "id": "Nave San Rocco",
+            "p": "TN"
+        },
+        {
+            "cc": "F879",
+            "id": "Nettunia",
+            "p": "RM"
+        },
+        {
+            "cc": "F880",
+            "id": "Nettuno",
+            "p": "RM"
+        },
+        {
+            "cc": "F885",
+            "id": "Nibbiano",
+            "p": "PC"
+        },
+        {
+            "cc": "F888",
+            "id": "Nicastro (vecchio)",
+            "p": "CZ"
+        },
+        {
+            "cc": "M208",
+            "id": "Nicastro (nuovo)",
+            "p": "CZ"
+        },
+        {
+            "cc": "M430",
+            "id": "Novella",
+            "p": "TN"
+        },
+        {
+            "cc": "F961",
+            "id": "Novello",
+            "p": "CN"
+        },
+        {
+            "cc": "G010",
+            "id": "Oglianico",
+            "p": "TO"
+        },
+        {
+            "cc": "G015",
+            "id": "Olbia",
+            "p": "SS"
+        },
+        {
+            "cc": "G042",
+            "id": "Olivola",
+            "p": "AL"
+        },
+        {
+            "cc": "G070",
+            "id": "Onifai",
+            "p": "NU"
+        },
+        {
+            "cc": "G090",
+            "id": "Orciano Pisano",
+            "p": "PI"
+        },
+        {
+            "cc": "G089",
+            "id": "Orciano di Pesaro",
+            "p": "PU"
+        },
+        {
+            "cc": "G130",
+            "id": "Orta di Atella",
+            "p": "CE"
+        },
+        {
+            "cc": "G214",
+            "id": "Padergnone",
+            "p": "TN"
+        },
+        {
+            "cc": "G221",
+            "id": "Paderno del Grappa",
+            "p": "TV"
+        },
+        {
+            "cc": "G262",
+            "id": "Palazzo Canavese",
+            "p": "TO"
+        },
+        {
+            "cc": "G330",
+            "id": "Parella",
+            "p": "TO"
+        },
+        {
+            "cc": "G337",
+            "id": "Parma",
+            "p": "PR"
+        },
+        {
+            "cc": "G399",
+            "id": "Pecorara",
+            "p": "PC"
+        },
+        {
+            "cc": "G400",
+            "id": "Pedace",
+            "p": "CS"
+        },
+        {
+            "cc": "G451",
+            "id": "Pergine Valdarno",
+            "p": "AR"
+        },
+        {
+            "cc": "G479",
+            "id": "Pesaro",
+            "p": "PU"
+        },
+        {
+            "cc": "G521",
+            "id": "Pettinengo",
+            "p": "BI"
+        },
+        {
+            "cc": "G537",
+            "id": "Piagge",
+            "p": "PU"
+        },
+        {
+            "cc": "G552",
+            "id": "Pian di Scò",
+            "p": "AR"
+        },
+        {
+            "cc": "G625",
+            "id": "Pietraporzio",
+            "p": "CN"
+        },
+        {
+            "cc": "G646",
+            "id": "Pieve Ligure",
+            "p": "GE"
+        },
+        {
+            "cc": "G638",
+            "id": "Pieve d'Alpago",
+            "p": "BL"
+        },
+        {
+            "cc": "M422",
+            "id": "Pieve del Grappa",
+            "p": "TV"
+        },
+        {
+            "cc": "G641",
+            "id": "Pieve di Bono",
+            "p": "TN"
+        },
+        {
+            "cc": "M365",
+            "id": "Pieve di Bono-Prezzo",
+            "p": "TN"
+        },
+        {
+            "cc": "G644",
+            "id": "Pieve di Ledro",
+            "p": "TN"
+        },
+        {
+            "cc": "G637",
+            "id": "Pievebovigliana",
+            "p": "MC"
+        },
+        {
+            "cc": "G715",
+            "id": "Piteglio",
+            "p": "PT"
+        },
+        {
+            "cc": "G719",
+            "id": "Piverone",
+            "p": "TO"
+        },
+        {
+            "cc": "G755",
+            "id": "Poggio Berni",
+            "p": "RN"
+        },
+        {
+            "cc": "M324",
+            "id": "Poggio Torriana",
+            "p": "RN"
+        },
+        {
+            "cc": "G783",
+            "id": "Polesine Parmense",
+            "p": "PR"
+        },
+        {
+            "cc": "M367",
+            "id": "Polesine Zibello",
+            "p": "PR"
+        },
+        {
+            "cc": "G888",
+            "id": "Pordenone",
+            "p": "PN"
+        },
+        {
+            "cc": "A558",
+            "id": "Porretta Terme",
+            "p": "BO"
+        },
+        {
+            "cc": "M358",
+            "id": "Porte di Rendena",
+            "p": "TN"
+        },
+        {
+            "cc": "G903",
+            "id": "Portico di Caserta",
+            "p": "CE"
+        },
+        {
+            "cc": "G911",
+            "id": "Porto Civitanova",
+            "p": "MC"
+        },
+        {
+            "cc": "G950",
+            "id": "Pozza di Fassa",
+            "p": "TN"
+        },
+        {
+            "cc": "G989",
+            "id": "Praso",
+            "p": "TN"
+        },
+        {
+            "cc": "H008",
+            "id": "Pratovecchio",
+            "p": "AR"
+        },
+        {
+            "cc": "M329",
+            "id": "Pratovecchio Stia",
+            "p": "AR"
+        },
+        {
+            "cc": "M344",
+            "id": "Predaia",
+            "p": "TN"
+        },
+        {
+            "cc": "H039",
+            "id": "Preore",
+            "p": "TN"
+        },
+        {
+            "cc": "H047",
+            "id": "Presicce",
+            "p": "LE"
+        },
+        {
+            "cc": "M428",
+            "id": "Presicce-Acquarica",
+            "p": "LE"
+        },
+        {
+            "cc": "H059",
+            "id": "Priero",
+            "p": "CN"
+        },
+        {
+            "cc": "M359",
+            "id": "Primiero San Martino di Castrozza",
+            "p": "TN"
+        },
+        {
+            "cc": "H092",
+            "id": "Puos d'Alpago",
+            "p": "BL"
+        },
+        {
+            "cc": "H100",
+            "id": "Quagliuzzo",
+            "p": "TO"
+        },
+        {
+            "cc": "H103",
+            "id": "Quaregna",
+            "p": "BI"
+        },
+        {
+            "cc": "M414",
+            "id": "Quaregna Cerreto",
+            "p": "BI"
+        },
+        {
+            "cc": "H106",
+            "id": "Quarna Sopra",
+            "p": "VB"
+        },
+        {
+            "cc": "H107",
+            "id": "Quarna Sotto",
+            "p": "VB"
+        },
+        {
+            "cc": "H124",
+            "id": "Quero",
+            "p": "BL"
+        },
+        {
+            "cc": "M332",
+            "id": "Quero Vas",
+            "p": "BL"
+        },
+        {
+            "cc": "H145",
+            "id": "Quittengo",
+            "p": "BI"
+        },
+        {
+            "cc": "H162",
+            "id": "Ragoli",
+            "p": "TN"
+        },
+        {
+            "cc": "G654",
+            "id": "Ramiseto",
+            "p": "RE"
+        },
+        {
+            "cc": "H189",
+            "id": "Rasun-Anterselva",
+            "p": "BZ"
+        },
+        {
+            "cc": "H254",
+            "id": "Revò",
+            "p": "TN"
+        },
+        {
+            "cc": "H262",
+            "id": "Rhêmes-Notre-Dame",
+            "p": "AO"
+        },
+        {
+            "cc": "H263",
+            "id": "Rhêmes-Saint-Georges",
+            "p": "AO"
+        },
+        {
+            "cc": "H291",
+            "id": "Rima San Giuseppe",
+            "p": "VC"
+        },
+        {
+            "cc": "H292",
+            "id": "Rimasco",
+            "p": "VC"
+        },
+        {
+            "cc": "M391",
+            "id": "Rio",
+            "p": "LI"
+        },
+        {
+            "cc": "H305",
+            "id": "Rio Marina",
+            "p": "LI"
+        },
+        {
+            "cc": "H297",
+            "id": "Rio nell'Elba",
+            "p": "LI"
+        },
+        {
+            "cc": "H322",
+            "id": "Ripe",
+            "p": "AN"
+        },
+        {
+            "cc": "H325",
+            "id": "Riposto",
+            "p": "CT"
+        },
+        {
+            "cc": "H328",
+            "id": "Riva Ligure",
+            "p": "IM"
+        },
+        {
+            "cc": "H329",
+            "id": "Riva Valdobbia",
+            "p": "VC"
+        },
+        {
+            "cc": "M410",
+            "id": "Riva del Po",
+            "p": "FE"
+        },
+        {
+            "cc": "H352",
+            "id": "Rivignano",
+            "p": "UD"
+        },
+        {
+            "cc": "M317",
+            "id": "Rivignano Teor",
+            "p": "UD"
+        },
+        {
+            "cc": "H360",
+            "id": "Ro",
+            "p": "FE"
+        },
+        {
+            "cc": "H506",
+            "id": "Romallo",
+            "p": "TN"
+        },
+        {
+            "cc": "H511",
+            "id": "Romano Canavese",
+            "p": "TO"
+        },
+        {
+            "cc": "H545",
+            "id": "Roncone",
+            "p": "TN"
+        },
+        {
+            "cc": "H579",
+            "id": "Rossano",
+            "p": "CS"
+        },
+        {
+            "cc": "H594",
+            "id": "Rotzo",
+            "p": "VI"
+        },
+        {
+            "cc": "H633",
+            "id": "Ruffia",
+            "p": "CN"
+        },
+        {
+            "cc": "H648",
+            "id": "Sabbia",
+            "p": "VC"
+        },
+        {
+            "cc": "H666",
+            "id": "Sagron Mis",
+            "p": "TN"
+        },
+        {
+            "cc": "H705",
+            "id": "Saletto",
+            "p": "PD"
+        },
+        {
+            "cc": "M380",
+            "id": "Saltara",
+            "p": "PU"
+        },
+        {
+            "cc": "M208",
+            "id": "Sambiase (nuovo)",
+            "p": "CZ"
+        },
+        {
+            "cc": "H742",
+            "id": "Sambiase (vecchio)",
+            "p": "CZ"
+        },
+        {
+            "cc": "H746",
+            "id": "Sambuco",
+            "p": "CN"
+        },
+        {
+            "cc": "H013",
+            "id": "Samo",
+            "p": "RC"
+        },
+        {
+            "cc": "H798",
+            "id": "San Cipriano d'Aversa",
+            "p": "CE"
+        },
+        {
+            "cc": "H834",
+            "id": "San Felice a Cancello",
+            "p": "CE"
+        },
+        {
+            "cc": "H863",
+            "id": "San Germano dei Berici",
+            "p": "VI"
+        },
+        {
+            "cc": "H886",
+            "id": "San Giorgio di Pesaro",
+            "p": "PU"
+        },
+        {
+            "cc": "H911",
+            "id": "San Giovanni d'Asso",
+            "p": "SI"
+        },
+        {
+            "cc": "M390",
+            "id": "San Giovanni di Fassa",
+            "p": "TN"
+        },
+        {
+            "cc": "M345",
+            "id": "San Lorenzo Dorsino",
+            "p": "TN"
+        },
+        {
+            "cc": "H966",
+            "id": "San Lorenzo in Banale",
+            "p": "TN"
+        },
+        {
+            "cc": "H978",
+            "id": "San Marcellino",
+            "p": "CE"
+        },
+        {
+            "cc": "H980",
+            "id": "San Marcello Pistoiese",
+            "p": "PT"
+        },
+        {
+            "cc": "M377",
+            "id": "San Marcello Piteglio",
+            "p": "PT"
+        },
+        {
+            "cc": "I017",
+            "id": "San Marzano Oliveto",
+            "p": "AT"
+        },
+        {
+            "cc": "I042",
+            "id": "San Michele all'Adige",
+            "p": "TN"
+        },
+        {
+            "cc": "I047",
+            "id": "San Nazario",
+            "p": "VI"
+        },
+        {
+            "cc": "I062",
+            "id": "San Nicola Manfredi",
+            "p": "BN"
+        },
+        {
+            "cc": "I074",
+            "id": "San Paolo Cervo",
+            "p": "BI"
+        },
+        {
+            "cc": "I085",
+            "id": "San Piero a Sieve",
+            "p": "FI"
+        },
+        {
+            "cc": "I198",
+            "id": "Sant'Agata del Bianco",
+            "p": "RC"
+        },
+        {
+            "cc": "I209",
+            "id": "Sant'Agostino",
+            "p": "FE"
+        },
+        {
+            "cc": "I284",
+            "id": "Sant'Angelo Romano",
+            "p": "RM"
+        },
+        {
+            "cc": "I285",
+            "id": "Sant'Angelo in Lizzola",
+            "p": "PU"
+        },
+        {
+            "cc": "I306",
+            "id": "Sant'Arpino",
+            "p": "CE"
+        },
+        {
+            "cc": "M208",
+            "id": "Sant'Eufemia Lamezia (nuovo)",
+            "p": "CZ"
+        },
+        {
+            "cc": "I334",
+            "id": "Sant'Eufemia Lamezia (vecchio)",
+            "p": "CZ"
+        },
+        {
+            "cc": "I217",
+            "id": "Santa Luce",
+            "p": "PI"
+        },
+        {
+            "cc": "I218",
+            "id": "Santa Luce Orciano",
+            "p": "PI"
+        },
+        {
+            "cc": "I226",
+            "id": "Santa Margherita d'Adige",
+            "p": "PD"
+        },
+        {
+            "cc": "I253",
+            "id": "Santa Marina",
+            "p": "SA"
+        },
+        {
+            "cc": "I365",
+            "id": "Santo Stefano al Mare",
+            "p": "IM"
+        },
+        {
+            "cc": "I444",
+            "id": "Sarsina",
+            "p": "FC"
+        },
+        {
+            "cc": "I459",
+            "id": "Sassocorvaro",
+            "p": "PU"
+        },
+        {
+            "cc": "M413",
+            "id": "Sassocorvaro Auditore",
+            "p": "PU"
+        },
+        {
+            "cc": "I474",
+            "id": "Savigno",
+            "p": "BO"
+        },
+        {
+            "cc": "I511",
+            "id": "Scarmagno",
+            "p": "TO"
+        },
+        {
+            "cc": "I512",
+            "id": "Scarnafigi",
+            "p": "CN"
+        },
+        {
+            "cc": "I513",
+            "id": "Scarnafigi-Ruffia",
+            "p": "CN"
+        },
+        {
+            "cc": "I514",
+            "id": "Scarperia",
+            "p": "FI"
+        },
+        {
+            "cc": "M326",
+            "id": "Scarperia e San Piero",
+            "p": "FI"
+        },
+        {
+            "cc": "I531",
+            "id": "Schio",
+            "p": "VI"
+        },
+        {
+            "cc": "M360",
+            "id": "Sella Giudicarie",
+            "p": "TN"
+        },
+        {
+            "cc": "I596",
+            "id": "Selve Marcone",
+            "p": "BI"
+        },
+        {
+            "cc": "I603",
+            "id": "Senale-San Felice",
+            "p": "BZ"
+        },
+        {
+            "cc": "I623",
+            "id": "Serbariu",
+            "p": "CA"
+        },
+        {
+            "cc": "I650",
+            "id": "Serra Pedace",
+            "p": "CS"
+        },
+        {
+            "cc": "I654",
+            "id": "Serra Sant'Abbondio",
+            "p": "PU"
+        },
+        {
+            "cc": "M380",
+            "id": "Serrungarina",
+            "p": "PU"
+        },
+        {
+            "cc": "I718",
+            "id": "Siamanna",
+            "p": "OR"
+        },
+        {
+            "cc": "I721",
+            "id": "Siapiccia",
+            "p": "OR"
+        },
+        {
+            "cc": "I737",
+            "id": "Sillano",
+            "p": "LU"
+        },
+        {
+            "cc": "M347",
+            "id": "Sillano Giuncugnano",
+            "p": "LU"
+        },
+        {
+            "cc": "I760",
+            "id": "Siror",
+            "p": "TN"
+        },
+        {
+            "cc": "I763",
+            "id": "Sissa",
+            "p": "PR"
+        },
+        {
+            "cc": "M325",
+            "id": "Sissa Trecasali",
+            "p": "PR"
+        },
+        {
+            "cc": "I772",
+            "id": "Smarano",
+            "p": "TN"
+        },
+        {
+            "cc": "I845",
+            "id": "Sorbolo",
+            "p": "PR"
+        },
+        {
+            "cc": "M411",
+            "id": "Sorbolo Mezzani",
+            "p": "PR"
+        },
+        {
+            "cc": "I889",
+            "id": "Spera",
+            "p": "TN"
+        },
+        {
+            "cc": "I898",
+            "id": "Spezzano Piccolo",
+            "p": "CS"
+        },
+        {
+            "cc": "I952",
+            "id": "Stia",
+            "p": "AR"
+        },
+        {
+            "cc": "I969",
+            "id": "Strambinello",
+            "p": "TO"
+        },
+        {
+            "cc": "I970",
+            "id": "Strambino",
+            "p": "TO"
+        },
+        {
+            "cc": "I979",
+            "id": "Strigno",
+            "p": "TN"
+        },
+        {
+            "cc": "I993",
+            "id": "Succivo",
+            "p": "CE"
+        },
+        {
+            "cc": "L027",
+            "id": "Tagliolo Monferrato",
+            "p": "AL"
+        },
+        {
+            "cc": "L033",
+            "id": "Taio",
+            "p": "TN"
+        },
+        {
+            "cc": "L060",
+            "id": "Tassullo",
+            "p": "TN"
+        },
+        {
+            "cc": "L093",
+            "id": "Tempio Pausania",
+            "p": "SS"
+        },
+        {
+            "cc": "L101",
+            "id": "Teor",
+            "p": "UD"
+        },
+        {
+            "cc": "L107",
+            "id": "Terlago",
+            "p": "TN"
+        },
+        {
+            "cc": "M379",
+            "id": "Terre Roveresche",
+            "p": "PU"
+        },
+        {
+            "cc": "M407",
+            "id": "Terre d'Adige",
+            "p": "TN"
+        },
+        {
+            "cc": "M381",
+            "id": "Terre del Reno",
+            "p": "FE"
+        },
+        {
+            "cc": "L137",
+            "id": "Terres",
+            "p": "TN"
+        },
+        {
+            "cc": "L155",
+            "id": "Teverola",
+            "p": "CE"
+        },
+        {
+            "cc": "L161",
+            "id": "Tiarno",
+            "p": "TN"
+        },
+        {
+            "cc": "L162",
+            "id": "Tiarno di Sopra",
+            "p": "TN"
+        },
+        {
+            "cc": "L163",
+            "id": "Tiarno di Sotto",
+            "p": "TN"
+        },
+        {
+            "cc": "L182",
+            "id": "Tivoli",
+            "p": "RM"
+        },
+        {
+            "cc": "L201",
+            "id": "Tonadico",
+            "p": "TN"
+        },
+        {
+            "cc": "L247",
+            "id": "Torre Canavese",
+            "p": "TO"
+        },
+        {
+            "cc": "I550",
+            "id": "Torriana",
+            "p": "RN"
+        },
+        {
+            "cc": "L329",
+            "id": "Transacqua",
+            "p": "TN"
+        },
+        {
+            "cc": "M361",
+            "id": "Tre Ville",
+            "p": "TN"
+        },
+        {
+            "cc": "L354",
+            "id": "Trecasali",
+            "p": "PR"
+        },
+        {
+            "cc": "M318",
+            "id": "Trecastelli",
+            "p": "AN"
+        },
+        {
+            "cc": "L375",
+            "id": "Trenta",
+            "p": "CS"
+        },
+        {
+            "cc": "L381",
+            "id": "Treppo Carnico",
+            "p": "UD"
+        },
+        {
+            "cc": "M399",
+            "id": "Treppo Ligosullo",
+            "p": "UD"
+        },
+        {
+            "cc": "L385",
+            "id": "Tres",
+            "p": "TN"
+        },
+        {
+            "cc": "L390",
+            "id": "Tresigallo",
+            "p": "FE"
+        },
+        {
+            "cc": "M409",
+            "id": "Tresignana",
+            "p": "FE"
+        },
+        {
+            "cc": "L394",
+            "id": "Tretto",
+            "p": "VI"
+        },
+        {
+            "cc": "L422",
+            "id": "Trichiana",
+            "p": "BL"
+        },
+        {
+            "cc": "L457",
+            "id": "Tuenno",
+            "p": "TN"
+        },
+        {
+            "cc": "M384",
+            "id": "Val Liona",
+            "p": "VI"
+        },
+        {
+            "cc": "L564",
+            "id": "Val di Vizze",
+            "p": "BZ"
+        },
+        {
+            "cc": "M374",
+            "id": "Val di Zoldo",
+            "p": "BL"
+        },
+        {
+            "cc": "M423",
+            "id": "Valbrenta",
+            "p": "VI"
+        },
+        {
+            "cc": "L550",
+            "id": "Valda",
+            "p": "TN"
+        },
+        {
+            "cc": "M343",
+            "id": "Valdaone",
+            "p": "TN"
+        },
+        {
+            "cc": "L552",
+            "id": "Valdaora",
+            "p": "BZ"
+        },
+        {
+            "cc": "L554",
+            "id": "Valdastico",
+            "p": "VI"
+        },
+        {
+            "cc": "M382",
+            "id": "Valfornace",
+            "p": "MC"
+        },
+        {
+            "cc": "M331",
+            "id": "Vallefoglia",
+            "p": "PU"
+        },
+        {
+            "cc": "M362",
+            "id": "Vallelaghi",
+            "p": "TN"
+        },
+        {
+            "cc": "L646",
+            "id": "Valrovina",
+            "p": "VI"
+        },
+        {
+            "cc": "M320",
+            "id": "Valsamoggia",
+            "p": "BO"
+        },
+        {
+            "cc": "L650",
+            "id": "Valstagna",
+            "p": "VI"
+        },
+        {
+            "cc": "L657",
+            "id": "Valvasone",
+            "p": "PN"
+        },
+        {
+            "cc": "M346",
+            "id": "Valvasone Arzene",
+            "p": "PN"
+        },
+        {
+            "cc": "L669",
+            "id": "Varallo",
+            "p": "VC"
+        },
+        {
+            "cc": "L678",
+            "id": "Varena",
+            "p": "TN"
+        },
+        {
+            "cc": "L692",
+            "id": "Vas",
+            "p": "BL"
+        },
+        {
+            "cc": "L697",
+            "id": "Vattaro",
+            "p": "TN"
+        },
+        {
+            "cc": "M364",
+            "id": "Ventasso",
+            "p": "RE"
+        },
+        {
+            "cc": "L746",
+            "id": "Verbania",
+            "p": "VB"
+        },
+        {
+            "cc": "L763",
+            "id": "Vergemoli",
+            "p": "LU"
+        },
+        {
+            "cc": "L781",
+            "id": "Verona",
+            "p": "VR"
+        },
+        {
+            "cc": "L800",
+            "id": "Vervò",
+            "p": "TN"
+        },
+        {
+            "cc": "L821",
+            "id": "Vezzano",
+            "p": "TN"
+        },
+        {
+            "cc": "F537",
+            "id": "Vibo Valentia",
+            "p": "VV"
+        },
+        {
+            "cc": "L903",
+            "id": "Vigo Rendena",
+            "p": "TN"
+        },
+        {
+            "cc": "L893",
+            "id": "Vigo di Fassa",
+            "p": "TN"
+        },
+        {
+            "cc": "L896",
+            "id": "Vigolo Vattaro",
+            "p": "TN"
+        },
+        {
+            "cc": "L910",
+            "id": "Villa Agnedo",
+            "p": "TN"
+        },
+        {
+            "cc": "M006",
+            "id": "Villa Rendena",
+            "p": "TN"
+        },
+        {
+            "cc": "M019",
+            "id": "Villa San Secondo",
+            "p": "AT"
+        },
+        {
+            "cc": "M034",
+            "id": "Villa Vicentina",
+            "p": "UD"
+        },
+        {
+            "cc": "D801",
+            "id": "Villa di Briano",
+            "p": "CE"
+        },
+        {
+            "cc": "M363",
+            "id": "Ville d'Anaunia",
+            "p": "TN"
+        },
+        {
+            "cc": "M431",
+            "id": "Ville di Fiemme",
+            "p": "TN"
+        },
+        {
+            "cc": "M067",
+            "id": "Vipiteno",
+            "p": "BZ"
+        },
+        {
+            "cc": "M092",
+            "id": "Vitulazio",
+            "p": "CE"
+        },
+        {
+            "cc": "M142",
+            "id": "Zambana",
+            "p": "TN"
+        },
+        {
+            "cc": "M174",
+            "id": "Zibello",
+            "p": "PR"
+        },
+        {
+            "cc": "I345",
+            "id": "Zoldo Alto",
+            "p": "BL"
+        },
+        {
+            "cc": "M198",
+            "id": "Zuclo",
+            "p": "TN"
+        }
+    ]
+}
