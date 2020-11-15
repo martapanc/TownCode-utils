@@ -7,12 +7,7 @@
   {
     "cc": "H751",
     "id": "Samo di Calabria",
-    "p": "SamoDiCalabriaRC"
-  },
-  {
-    "cc": "",
-    "id": "Iannassi",
-    "p": ""
+    "p": "RC"
   },
   {
     "cc": "M035",
@@ -25,9 +20,9 @@
     "p": "PR"
   },
   {
-    "cc": "",
+    "cc": "D809",
     "id": "Frontone Serra",
-    "p": ""
+    "p": "PS"
   },
   {
     "cc": "F292",
@@ -35,14 +30,14 @@
     "p": "AL"
   },
   {
-    "cc": "",
+    "cc": "D778",
     "id": "Frassinello Olivola",
-    "p": ""
+    "p": "AL"
   },
   {
-    "cc": "",
+    "cc": "L028",
     "id": "Tagliolo Belforte",
-    "p": ""
+    "p": "AL"
   },
   {
     "cc": "L927",
@@ -62,7 +57,7 @@
   {
     "cc": "D857",
     "id": "Gaiola-Moiola",
-    "p": "Gaiola-moiolaCN"
+    "p": "CN"
   },
   {
     "cc": "F339",
@@ -72,17 +67,17 @@
   {
     "cc": "H060",
     "id": "Priero-Montezemolo",
-    "p": "Priero-montezemoloCN"
+    "p": "CN"
   },
   {
-    "cc": "",
+    "cc": "B884",
     "id": "Casaleggio-Castellazzo",
-    "p": ""
+    "p": "NO"
   },
   {
     "cc": "D521",
     "id": "Favria-Oglianico",
-    "p": "Favria-oglianicoTO"
+    "p": "TO"
   },
   {
     "cc": "G269",
@@ -107,17 +102,12 @@
   {
     "cc": "E324",
     "id": "Irgoli di Galtelli",
-    "p": "IrgoliDiGaltelliNU"
+    "p": "NU"
   },
   {
-    "cc": "",
-    "id": "Siamanna-Siapiccia",
-    "p": ""
-  },
-  {
-    "cc": "",
-    "id": "Prati (Val di Vizze)",
-    "p": ""
+    "cc": "I719",
+    "id": "Siamanna Siapiccia",
+    "p": "CA"
   },
   {
     "cc": "M099",
@@ -125,18 +115,13 @@
     "p": "BZ"
   },
   {
-    "cc": "",
-    "id": "Sant'Andrea in Monte",
-    "p": ""
-  },
-  {
     "cc": "A838",
     "id": "Bevilacqua Boschi",
     "p": "VR"
   },
   {
-    "cc": "",
+    "cc": "D721",
     "id": "Forni di Val d'Astico",
-    "p": ""
+    "p": "VI"
   }
 ]
