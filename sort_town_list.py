@@ -7,7 +7,6 @@ def read_json():
         town_list.sort(key=lambda s: s['id'])
 
     return town_list
-        # write_json(town_list)
 
 
 def write_json(town_list, mode):
@@ -20,6 +19,17 @@ def remove_duplicates(town_list):
     return [d for d in unique]
 
 
+def add_suppressed_towns_and_sort():
+    with open('files/comuni_soppressi_sorted.json') as suppressed_sorted:
+        suppressed_sorted_list = json.load(suppressed_sorted)['towns']
+        with open('files/comuni_sorted.json') as sorted:
+            sorted_list = json.load(sorted)['towns']
+
+            merge_list = remove_duplicates(suppressed_sorted_list + sorted_list)
+            merge_list.sort(key=lambda s: s['id'])
+            write_json(merge_list, "nuovi_e_soppressi")
+
+
 if __name__ == '__main__':
     # read_json()
-    write_json(remove_duplicates(read_json()), "soppressi_sorted")
+    add_suppressed_towns_and_sort()
