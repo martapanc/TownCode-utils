@@ -5,7 +5,7 @@ from urllib.parse import urlparse, parse_qs
 import requests
 from bs4 import BeautifulSoup
 
-from sort_town_list import remove_duplicates, write_json
+from sort_town_list import write_json
 
 town_without_page_list = []
 
@@ -85,18 +85,55 @@ def wikipedia_scraper():
     write_json(output_list, "soppressi")
 
 
+def lombardia_scraper():
+    output_list = []
+    soup = BeautifulSoup(open("lombardia.html"), "html.parser")
+    li_list = soup.find_all('li')
+    for li in li_list:
+        links = li.findAll('a', href=True)
+        output_list.append(links[0]['title'])
+    return output_list
+
+
+def lombardia_xxi_scraper():
+    output_list = []
+    soup = BeautifulSoup(open("lombardia_xxi.html"), "html.parser")
+    td_list = soup.find_all('td')
+    for td in td_list:
+        links = td.findAll('a', href=True)
+        if len(links) == 0 or links[0] is None:
+            continue
+        town_title = links[0]['title'].split(" (")[0]
+        output_list.append(town_title) if not town_title.isnumeric() else None
+    return output_list
+
+
 def print_to_json(output_list):
-    with open('data.json', 'w') as output:
+    with open('files/lombardia_soppressi.json', 'w') as output:
         json.dump(output_list, output)
 
 
-def main():
+def scrape_wikipedia():
     wikipedia_scraper()
     print(town_without_page_list)
-
     result_list = []
     for town in town_without_page_list:
         cadastral, province = search_cadastral_code_of_town(town)
+        result_list.append({
+            "cc": cadastral,
+            "id": town,
+            "p": province
+        })
+    print_to_json(result_list)
+
+
+def main():
+    result_list = []
+    town_list = set(lombardia_scraper() + lombardia_xxi_scraper())
+    for town in town_list:
+        town = town.replace("Ca'", "Ca")
+        cadastral, province = search_cadastral_code_of_town(town)
+        print(cadastral)
         result_list.append({
             "cc": cadastral,
             "id": town,

@@ -1,0 +1,4882 @@
+[
+  {
+    "cc": "C947",
+    "id": "Concesa",
+    "p": "MI"
+  },
+  {
+    "cc": "A595",
+    "id": "Ballabio Inferiore",
+    "p": "CO"
+  },
+  {
+    "cc": "I586",
+    "id": "Sellanuova",
+    "p": "MI"
+  },
+  {
+    "cc": "I349",
+    "id": "Sant'Omobono Imagna",
+    "p": "BG"
+  },
+  {
+    "cc": "C221",
+    "id": "Castelnuovo Cremasco",
+    "p": "CR"
+  },
+  {
+    "cc": "L300",
+    "id": "Torrino",
+    "p": "PV"
+  },
+  {
+    "cc": "A791",
+    "id": "Beregazzo con Figliaro",
+    "p": "CO"
+  },
+  {
+    "cc": "A659",
+    "id": "Bargano",
+    "p": "MI"
+  },
+  {
+    "cc": "E686",
+    "id": "Lorentino",
+    "p": "BG"
+  },
+  {
+    "cc": "D658",
+    "id": "Folzano",
+    "p": "BS"
+  },
+  {
+    "cc": "A858",
+    "id": "Biegno",
+    "p": "VA"
+  },
+  {
+    "cc": "C362",
+    "id": "Cavacurta",
+    "p": "LO"
+  },
+  {
+    "cc": "E595",
+    "id": "Limito",
+    "p": "MI"
+  },
+  {
+    "cc": "L135",
+    "id": "Terrazzano",
+    "p": "MI"
+  },
+  {
+    "cc": "A875",
+    "id": "Binzago",
+    "p": "MI"
+  },
+  {
+    "cc": "E294",
+    "id": "Incirano",
+    "p": "MI"
+  },
+  {
+    "cc": "C431",
+    "id": "Celina",
+    "p": "VA"
+  },
+  {
+    "cc": "E740",
+    "id": "Lumezzane San Sebastiano",
+    "p": "BS"
+  },
+  {
+    "cc": "C896",
+    "id": "Colognola del Piano",
+    "p": "BG"
+  },
+  {
+    "cc": "A361",
+    "id": "Arcagna",
+    "p": "MI"
+  },
+  {
+    "cc": "L721",
+    "id": "Vello",
+    "p": "BS"
+  },
+  {
+    "cc": "G998",
+    "id": "Prato Muzio",
+    "p": "CR"
+  },
+  {
+    "cc": "B343",
+    "id": "Cadignano",
+    "p": "BS"
+  },
+  {
+    "cc": "L861",
+    "id": "Vigadore",
+    "p": "MI"
+  },
+  {
+    "cc": "B170",
+    "id": "Briavacca",
+    "p": "MI"
+  },
+  {
+    "cc": "H470",
+    "id": "Rodano",
+    "p": "MI"
+  },
+  {
+    "cc": "C887",
+    "id": "Colnago",
+    "p": "MI"
+  },
+  {
+    "cc": "L592",
+    "id": "Valle Guidino",
+    "p": "MI"
+  },
+  {
+    "cc": "B089",
+    "id": "Bottarone",
+    "p": "PV"
+  },
+  {
+    "cc": "F121",
+    "id": "Menarola",
+    "p": "SO"
+  },
+  {
+    "cc": "D146",
+    "id": "Cremezzano",
+    "p": "BS"
+  },
+  {
+    "cc": "E996",
+    "id": "Marzalengo",
+    "p": "CR"
+  },
+  {
+    "cc": "B092",
+    "id": "Botticino Mattina",
+    "p": "BS"
+  },
+  {
+    "cc": "A596",
+    "id": "Ballabio Superiore",
+    "p": "CO"
+  },
+  {
+    "cc": "G679",
+    "id": "Pinzano",
+    "p": "MI"
+  },
+  {
+    "cc": "L523",
+    "id": "Vaccarizza",
+    "p": "PV"
+  },
+  {
+    "cc": "G677",
+    "id": "Pino sulla Sponda del Lago Maggiore",
+    "p": "VA"
+  },
+  {
+    "cc": "B133",
+    "id": "Breglia",
+    "p": "CO"
+  },
+  {
+    "cc": "I933",
+    "id": "Staghiglione",
+    "p": "PV"
+  },
+  {
+    "cc": "L709",
+    "id": "Veduggio con Colzano",
+    "p": "MI"
+  },
+  {
+    "cc": "G857",
+    "id": "Pontesesto",
+    "p": "MI"
+  },
+  {
+    "cc": "E568",
+    "id": "Lezza",
+    "p": "CO"
+  },
+  {
+    "cc": "H139",
+    "id": "Quinzanello",
+    "p": "BS"
+  },
+  {
+    "cc": "L504",
+    "id": "Urio",
+    "p": "CO"
+  },
+  {
+    "cc": "B806",
+    "id": "Caronno Corbellaro",
+    "p": "VA"
+  },
+  {
+    "cc": "A918",
+    "id": "Bodio Lomnago",
+    "p": "VA"
+  },
+  {
+    "cc": "C179",
+    "id": "Castello Valsolda",
+    "p": "CO"
+  },
+  {
+    "cc": "I793",
+    "id": "Solbiate sull'Arno",
+    "p": "VA"
+  },
+  {
+    "cc": "G876",
+    "id": "Ponzate",
+    "p": "CO"
+  },
+  {
+    "cc": "I065",
+    "id": "San Pancrazio",
+    "p": "BZ"
+  },
+  {
+    "cc": "I075",
+    "id": "San Paolo Ripa d'Oglio",
+    "p": "CR"
+  },
+  {
+    "cc": "G329",
+    "id": "Parè",
+    "p": "CO"
+  },
+  {
+    "cc": "L760",
+    "id": "Villa Vergano",
+    "p": "CO"
+  },
+  {
+    "cc": "H226",
+    "id": "Regina Fittarezza",
+    "p": "MI"
+  },
+  {
+    "cc": "C386",
+    "id": "Cava Tigozzi",
+    "p": "CR"
+  },
+  {
+    "cc": "I766",
+    "id": "Siviano",
+    "p": "BS"
+  },
+  {
+    "cc": "B337",
+    "id": "Ca de' Soresini",
+    "p": "CR"
+  },
+  {
+    "cc": "H563",
+    "id": "Rosciate",
+    "p": "BG"
+  },
+  {
+    "cc": "B487",
+    "id": "Camnago Volta",
+    "p": "CO"
+  },
+  {
+    "cc": "L031",
+    "id": "Tainate",
+    "p": "MI"
+  },
+  {
+    "cc": "A685",
+    "id": "Barzaniga",
+    "p": "CR"
+  },
+  {
+    "cc": "C572",
+    "id": "Cesello Brianza",
+    "p": "CO"
+  },
+  {
+    "cc": "I788",
+    "id": "Solarolo del Persico",
+    "p": "CR"
+  },
+  {
+    "cc": "E300",
+    "id": "Induno Ticino",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Sermide e Felonica",
+    "p": ""
+  },
+  {
+    "cc": "E141",
+    "id": "Grandola ed Uniti",
+    "p": "CO"
+  },
+  {
+    "cc": "E357",
+    "id": "Isola Pescaroli",
+    "p": "CR"
+  },
+  {
+    "cc": "B739",
+    "id": "Carbonara di Po",
+    "p": "MN"
+  },
+  {
+    "cc": "D035",
+    "id": "Corpi Santi di Milano",
+    "p": "MI"
+  },
+  {
+    "cc": "H217",
+    "id": "Redona",
+    "p": "BG"
+  },
+  {
+    "cc": "D404",
+    "id": "Endenna",
+    "p": "BG"
+  },
+  {
+    "cc": "B093",
+    "id": "Botticino Sera",
+    "p": "BS"
+  },
+  {
+    "cc": "G819",
+    "id": "Poncarale Flero",
+    "p": "BS"
+  },
+  {
+    "cc": "H883",
+    "id": "San Giorgio Bigarello",
+    "p": "MN"
+  },
+  {
+    "cc": "B373",
+    "id": "Caionvico",
+    "p": "BS"
+  },
+  {
+    "cc": "L849",
+    "id": "Viconago",
+    "p": "VA"
+  },
+  {
+    "cc": "M051",
+    "id": "Vimanone",
+    "p": "PV"
+  },
+  {
+    "cc": "D840",
+    "id": "Gadesco",
+    "p": "CR"
+  },
+  {
+    "cc": "C664",
+    "id": "Chiuso",
+    "p": "CP"
+  },
+  {
+    "cc": "B330",
+    "id": "Ca' della Terra",
+    "p": "PV"
+  },
+  {
+    "cc": "G901",
+    "id": "Portese",
+    "p": "BS"
+  },
+  {
+    "cc": "D989",
+    "id": "Gerolanuova",
+    "p": "BS"
+  },
+  {
+    "cc": "E670",
+    "id": "Longardore",
+    "p": "CR"
+  },
+  {
+    "cc": "D900",
+    "id": "Gambina Barchetti",
+    "p": "CR"
+  },
+  {
+    "cc": "B464",
+    "id": "Cambiò",
+    "p": "PV"
+  },
+  {
+    "cc": "G355",
+    "id": "Passarera",
+    "p": "CR"
+  },
+  {
+    "cc": "E609",
+    "id": "Lisanza",
+    "p": "VA"
+  },
+  {
+    "cc": "C299",
+    "id": "Castiglione d'Intelvi",
+    "p": "CO"
+  },
+  {
+    "cc": "D936",
+    "id": "Gattera Maiocca",
+    "p": "MI"
+  },
+  {
+    "cc": "B995",
+    "id": "Cassago",
+    "p": "CO"
+  },
+  {
+    "cc": "H031",
+    "id": "Premenugo",
+    "p": "MI"
+  },
+  {
+    "cc": "I577",
+    "id": "Segrate",
+    "p": "MI"
+  },
+  {
+    "cc": "A428",
+    "id": "Arolo",
+    "p": "VA"
+  },
+  {
+    "cc": "A860",
+    "id": "Bienate",
+    "p": "MI"
+  },
+  {
+    "cc": "C945",
+    "id": "Concenedo",
+    "p": "CO"
+  },
+  {
+    "cc": "L705",
+    "id": "Veddasca",
+    "p": "VA"
+  },
+  {
+    "cc": "H317",
+    "id": "Ripalta Nuova",
+    "p": "CR"
+  },
+  {
+    "cc": "F819",
+    "id": "Musadino",
+    "p": "VA"
+  },
+  {
+    "cc": "I811",
+    "id": "Solto",
+    "p": "BG"
+  },
+  {
+    "cc": "H358",
+    "id": "Rivoltella",
+    "p": "BS"
+  },
+  {
+    "cc": "D106",
+    "id": "Costa al Lambro",
+    "p": "MI"
+  },
+  {
+    "cc": "B849",
+    "id": "Caruberto",
+    "p": "CR"
+  },
+  {
+    "cc": "A364",
+    "id": "Arcellasco",
+    "p": "CO"
+  },
+  {
+    "cc": "M396",
+    "id": "Borgo Mantovano",
+    "p": "MN"
+  },
+  {
+    "cc": "L510",
+    "id": "Usmate",
+    "p": "MI"
+  },
+  {
+    "cc": "A748",
+    "id": "Belledo",
+    "p": "CO"
+  },
+  {
+    "cc": "F349",
+    "id": "Mondonico",
+    "p": "CO"
+  },
+  {
+    "cc": "A144",
+    "id": "Albegno",
+    "p": "BG"
+  },
+  {
+    "cc": "A682",
+    "id": "Barza",
+    "p": "VA"
+  },
+  {
+    "cc": "A899",
+    "id": "Bizzozero",
+    "p": "VA"
+  },
+  {
+    "cc": "F236",
+    "id": "Mirabello San Bernardino",
+    "p": "MI"
+  },
+  {
+    "cc": "M146",
+    "id": "Zanengo",
+    "p": "CR"
+  },
+  {
+    "cc": "H656",
+    "id": "Sacconago",
+    "p": "VA"
+  },
+  {
+    "cc": "D588",
+    "id": "Marne",
+    "p": "BG"
+  },
+  {
+    "cc": "L255",
+    "id": "Torre d'Angiolini",
+    "p": "CR"
+  },
+  {
+    "cc": "E579",
+    "id": "Liconasco",
+    "p": "PV"
+  },
+  {
+    "cc": "I740",
+    "id": "Silvella ",
+    "p": "CR"
+  },
+  {
+    "cc": "E299",
+    "id": "Induno Olona",
+    "p": "VA"
+  },
+  {
+    "cc": "I186",
+    "id": "Sant'Eufemia della Fonte",
+    "p": "BS"
+  },
+  {
+    "cc": "C707",
+    "id": "Cinisello Balsamo",
+    "p": "MI"
+  },
+  {
+    "cc": "H044",
+    "id": "Presegno",
+    "p": "BS"
+  },
+  {
+    "cc": "L261",
+    "id": "Torre del Monte",
+    "p": "PV"
+  },
+  {
+    "cc": "A744",
+    "id": "Bellagio",
+    "p": "CO"
+  },
+  {
+    "cc": "A654",
+    "id": "Baresi",
+    "p": "BG"
+  },
+  {
+    "cc": "A695",
+    "id": "Baselica Bologna",
+    "p": "PV"
+  },
+  {
+    "cc": "I036",
+    "id": "San Michele Cremasco",
+    "p": "CR"
+  },
+  {
+    "cc": "L365",
+    "id": "Tregolo",
+    "p": "CO"
+  },
+  {
+    "cc": "C012",
+    "id": "Cassina de' Gatti",
+    "p": "MI"
+  },
+  {
+    "cc": "B801",
+    "id": "Carobbio degli Angeli",
+    "p": "BG"
+  },
+  {
+    "cc": "H510",
+    "id": "Romanò Brianza",
+    "p": "CO"
+  },
+  {
+    "cc": "H368",
+    "id": "Robbiano",
+    "p": "MI"
+  },
+  {
+    "cc": "C682",
+    "id": "Cignano",
+    "p": "BS"
+  },
+  {
+    "cc": "A871",
+    "id": "Binanuova",
+    "p": "CR"
+  },
+  {
+    "cc": "I836",
+    "id": "Sopraponte",
+    "p": "BS"
+  },
+  {
+    "cc": "L395",
+    "id": "Trevano",
+    "p": "CO"
+  },
+  {
+    "cc": "E298",
+    "id": "Indovero",
+    "p": "CO"
+  },
+  {
+    "cc": "I931",
+    "id": "Stabello",
+    "p": "BG"
+  },
+  {
+    "cc": "G149",
+    "id": "Barco",
+    "p": "BR"
+  },
+  {
+    "cc": "B976",
+    "id": "Casnate",
+    "p": "CO"
+  },
+  {
+    "cc": "G101",
+    "id": "Oriano sopra Ticino",
+    "p": "VA"
+  },
+  {
+    "cc": "L476",
+    "id": "Turro Milanese",
+    "p": "MI"
+  },
+  {
+    "cc": "L536",
+    "id": "Vaiano Valle",
+    "p": "MI"
+  },
+  {
+    "cc": "F804",
+    "id": "Villa Poma",
+    "p": "MN"
+  },
+  {
+    "cc": "F624",
+    "id": "Montesano al Piano",
+    "p": "PV"
+  },
+  {
+    "cc": "I713",
+    "id": "Sforzatica",
+    "p": "BG"
+  },
+  {
+    "cc": "L234",
+    "id": "Torradello",
+    "p": "PV"
+  },
+  {
+    "cc": "E710",
+    "id": "Lozzo",
+    "p": "VA"
+  },
+  {
+    "cc": "G824",
+    "id": "Pontagna",
+    "p": "BS"
+  },
+  {
+    "cc": "A582",
+    "id": "Baiedo",
+    "p": "CO"
+  },
+  {
+    "cc": "H077",
+    "id": "Provaglio Val Sabbia",
+    "p": "BS"
+  },
+  {
+    "cc": "A969",
+    "id": "Bondo Petello",
+    "p": "BG"
+  },
+  {
+    "cc": "A598",
+    "id": "Ballarate",
+    "p": "VA"
+  },
+  {
+    "cc": "H290",
+    "id": "Rigosa",
+    "p": "BG"
+  },
+  {
+    "cc": "D060",
+    "id": "Corte Madama",
+    "p": "CR"
+  },
+  {
+    "cc": "A767",
+    "id": "Bel Prato",
+    "p": "BS"
+  },
+  {
+    "cc": "F583",
+    "id": "Monte Olimpino",
+    "p": "CO"
+  },
+  {
+    "cc": "G781",
+    "id": "Polengo",
+    "p": "CR"
+  },
+  {
+    "cc": "H582",
+    "id": "Rossino",
+    "p": "BG"
+  },
+  {
+    "cc": "C913",
+    "id": "Comairano",
+    "p": "PV"
+  },
+  {
+    "cc": "L767",
+    "id": "Vergobbio",
+    "p": "VA"
+  },
+  {
+    "cc": "D517",
+    "id": "Faverzano",
+    "p": "BS"
+  },
+  {
+    "cc": "L412",
+    "id": "Trezzolasco",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Sant'Abbondio",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Molina (Faggeto Lario)",
+    "p": ""
+  },
+  {
+    "cc": "C333",
+    "id": "Castrezzone",
+    "p": "BS"
+  },
+  {
+    "cc": "L341",
+    "id": "Travedona",
+    "p": "VA"
+  },
+  {
+    "cc": "C687",
+    "id": "Ciliverghe",
+    "p": "BS"
+  },
+  {
+    "cc": "D405",
+    "id": "Endine",
+    "p": "BG"
+  },
+  {
+    "cc": "C468",
+    "id": "Centemero",
+    "p": "CO"
+  },
+  {
+    "cc": "D152",
+    "id": "Crenna",
+    "p": "VA"
+  },
+  {
+    "cc": "F178",
+    "id": "Mezzano Parpanese",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "Borgoforte (Borgo Virgilio)",
+    "p": ""
+  },
+  {
+    "cc": "F742",
+    "id": "Morosolo",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "C\u00e0 d'Andrea",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Calino (Cazzago San Martino)",
+    "p": ""
+  },
+  {
+    "cc": "D950",
+    "id": "Gazzada",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "1960",
+    "p": ""
+  },
+  {
+    "cc": "C031",
+    "id": "Cassine Sirigari",
+    "p": "PV"
+  },
+  {
+    "cc": "E302",
+    "id": "Intimiano",
+    "p": "CO"
+  },
+  {
+    "cc": "E567",
+    "id": "Levrange",
+    "p": "BS"
+  },
+  {
+    "cc": "E427",
+    "id": "Lambrate",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Montebolognola",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Vho (Piadena Drizzona)",
+    "p": ""
+  },
+  {
+    "cc": "D283",
+    "id": "Desenzano al Serio",
+    "p": "DesenzanoAlSerioBG"
+  },
+  {
+    "cc": "E231",
+    "id": "Gualdrasco",
+    "p": "PV"
+  },
+  {
+    "cc": "M394",
+    "id": "Centro Valle Intelvi",
+    "p": "CO"
+  },
+  {
+    "cc": "H079",
+    "id": "Provaglio Sopra",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Erba-Incino",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Paina-Brugazzo",
+    "p": ""
+  },
+  {
+    "cc": "C473",
+    "id": "Centrisola",
+    "p": "BG"
+  },
+  {
+    "cc": "I338",
+    "id": "Santicolo",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "C\u00e0 de' Quinzani",
+    "p": ""
+  },
+  {
+    "cc": "E190",
+    "id": "Grona",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Ca de' Zecchi",
+    "p": ""
+  },
+  {
+    "cc": "L901",
+    "id": "Vigonzino",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Cugliate",
+    "p": ""
+  },
+  {
+    "cc": "C475",
+    "id": "Cepino",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "1927",
+    "p": ""
+  },
+  {
+    "cc": "C924",
+    "id": "Comezzano",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "San Savino(CR)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Sant'Agata Martesana",
+    "p": ""
+  },
+  {
+    "cc": "I067",
+    "id": "San Pancrazio al Colle",
+    "p": "SanPancrazioAlColleVA"
+  },
+  {
+    "cc": "C402",
+    "id": "Cavona",
+    "p": "VA"
+  },
+  {
+    "cc": "A974",
+    "id": "Bonirola",
+    "p": "MI"
+  },
+  {
+    "cc": "E446",
+    "id": "Laorca",
+    "p": "CO"
+  },
+  {
+    "cc": "D173",
+    "id": "Croce",
+    "p": "CO"
+  },
+  {
+    "cc": "B947",
+    "id": "Casazza",
+    "p": "BG"
+  },
+  {
+    "cc": "M087",
+    "id": "Vittadone",
+    "p": "MI"
+  },
+  {
+    "cc": "B456",
+    "id": "Camairago",
+    "p": "LO"
+  },
+  {
+    "cc": "B652",
+    "id": "Capiago",
+    "p": "CO"
+  },
+  {
+    "cc": "D063",
+    "id": "Cortenedolo",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Vall'Alta",
+    "p": ""
+  },
+  {
+    "cc": "C233",
+    "id": "Castelnuovo del Vescovo",
+    "p": "CastelnuovoDelVescovoCR"
+  },
+  {
+    "cc": "D369",
+    "id": "Drezzo",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Bressana",
+    "p": ""
+  },
+  {
+    "cc": "M160",
+    "id": "Zelo Surrigone",
+    "p": "MI"
+  },
+  {
+    "cc": "E823",
+    "id": "Magno Sopra Inzino",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Lumezzane Sant'Apollonio",
+    "p": ""
+  },
+  {
+    "cc": "B811",
+    "id": "Carpaneta con Dosimo",
+    "p": "CarpanetaConDosimoCR"
+  },
+  {
+    "cc": "H526",
+    "id": "Roncadello d'Adda",
+    "p": "RoncadelloD'addaCR"
+  },
+  {
+    "cc": "H864",
+    "id": "San Gervasio d'Adda",
+    "p": "SanGervasioD'addaBG"
+  },
+  {
+    "cc": "L495",
+    "id": "Urago Mella",
+    "p": "BS"
+  },
+  {
+    "cc": "H567",
+    "id": "Roserio",
+    "p": "MI"
+  },
+  {
+    "cc": "H351",
+    "id": "Riviera d'Adda",
+    "p": "RivieraD'addaBG"
+  },
+  {
+    "cc": "G413",
+    "id": "Pedriano",
+    "p": "MI"
+  },
+  {
+    "cc": "H016",
+    "id": "Precotto",
+    "p": "MI"
+  },
+  {
+    "cc": "G092",
+    "id": "Oreno",
+    "p": "MI"
+  },
+  {
+    "cc": "L545",
+    "id": "Valbrembo",
+    "p": "BG"
+  },
+  {
+    "cc": "A554",
+    "id": "Bagnarolo",
+    "p": "CR"
+  },
+  {
+    "cc": "G503",
+    "id": "Pessina Valsassina",
+    "p": "CO"
+  },
+  {
+    "cc": "I228",
+    "id": "Santa Margherita Po",
+    "p": "PV"
+  },
+  {
+    "cc": "B307",
+    "id": "Buttirago",
+    "p": "PV"
+  },
+  {
+    "cc": "F245",
+    "id": "Misano Olona",
+    "p": "PV"
+  },
+  {
+    "cc": "I685",
+    "id": "Sesto Pergola",
+    "p": "MI"
+  },
+  {
+    "cc": "A803",
+    "id": "Bernate Rosales",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Sant'Omobono Terme",
+    "p": ""
+  },
+  {
+    "cc": "A469",
+    "id": "Asnago",
+    "p": "CO"
+  },
+  {
+    "cc": "G531",
+    "id": "Pezzolo di Tavazzano",
+    "p": "PezzoloDiTavazzanoMI"
+  },
+  {
+    "cc": "E598",
+    "id": "Limonta",
+    "p": "CO"
+  },
+  {
+    "cc": "A073",
+    "id": "Agliate",
+    "p": "MI"
+  },
+  {
+    "cc": "C032",
+    "id": "Cassine Tolentine",
+    "p": "PV"
+  },
+  {
+    "cc": "H215",
+    "id": "Recorfano",
+    "p": "CR"
+  },
+  {
+    "cc": "H649",
+    "id": "Sabbio Bergamasco",
+    "p": "BG"
+  },
+  {
+    "cc": "B699",
+    "id": "Capriano di Brianza",
+    "p": "CaprianoDiBrianzaMI"
+  },
+  {
+    "cc": "B222",
+    "id": "Bruntino",
+    "p": "BG"
+  },
+  {
+    "cc": "D437",
+    "id": "Esino Superiore",
+    "p": "CO"
+  },
+  {
+    "cc": "B638",
+    "id": "Cantonale",
+    "p": "MI"
+  },
+  {
+    "cc": "C923",
+    "id": "Comero",
+    "p": "BS"
+  },
+  {
+    "cc": "F069",
+    "id": "Mazzo Milanese",
+    "p": "MI"
+  },
+  {
+    "cc": "H082",
+    "id": "Provezze",
+    "p": "BS"
+  },
+  {
+    "cc": "G897",
+    "id": "Porta Ombriano",
+    "p": "CR"
+  },
+  {
+    "cc": "E444",
+    "id": "Lanzo d'Intelvi",
+    "p": "LanzoD'intelviCO"
+  },
+  {
+    "cc": "A642",
+    "id": "Barcone",
+    "p": "CO"
+  },
+  {
+    "cc": "C234",
+    "id": "Castelnuovo del Zappa",
+    "p": "CastelnuovoDelZappaCR"
+  },
+  {
+    "cc": "L289",
+    "id": "Torriano",
+    "p": "PV"
+  },
+  {
+    "cc": "F684",
+    "id": "Montonate",
+    "p": "VA"
+  },
+  {
+    "cc": "H248",
+    "id": "Revere",
+    "p": "MN"
+  },
+  {
+    "cc": "H584",
+    "id": "Rota d'Imagna",
+    "p": "RotaD'imagnaBG"
+  },
+  {
+    "cc": "A943",
+    "id": "Bollone",
+    "p": "TN"
+  },
+  {
+    "cc": "M159",
+    "id": "Zelo Foramagno",
+    "p": "MI"
+  },
+  {
+    "cc": "L786",
+    "id": "Verrua Siccomario",
+    "p": "PV"
+  },
+  {
+    "cc": "G029",
+    "id": "Olginasio",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Colli Verdi",
+    "p": ""
+  },
+  {
+    "cc": "B325",
+    "id": "Cadegliano",
+    "p": "VA"
+  },
+  {
+    "cc": "F273",
+    "id": "Moiana",
+    "p": "CO"
+  },
+  {
+    "cc": "D625",
+    "id": "Fiumenero",
+    "p": "BG"
+  },
+  {
+    "cc": "B072",
+    "id": "Bosco Valtravaglia",
+    "p": "VA"
+  },
+  {
+    "cc": "H832",
+    "id": "San Felice di Scovolo",
+    "p": "SanFeliceDiScovoloBS"
+  },
+  {
+    "cc": "C535",
+    "id": "Cerro Lago Maggiore",
+    "p": "VA"
+  },
+  {
+    "cc": "C706",
+    "id": "Cinisello",
+    "p": "MI"
+  },
+  {
+    "cc": "C4PZ",
+    "id": "San Siro",
+    "p": "CO"
+  },
+  {
+    "cc": "L360",
+    "id": "Tredossi",
+    "p": "CR"
+  },
+  {
+    "cc": "H603",
+    "id": "Rovenna",
+    "p": "CO"
+  },
+  {
+    "cc": "B090",
+    "id": "Bottedo",
+    "p": "MI"
+  },
+  {
+    "cc": "B913",
+    "id": "Casalsigone",
+    "p": "CR"
+  },
+  {
+    "cc": "I789",
+    "id": "Solarolo Monasterolo",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Pagnano Valassina",
+    "p": ""
+  },
+  {
+    "cc": "G017",
+    "id": "Olcio",
+    "p": "CO"
+  },
+  {
+    "cc": "D822",
+    "id": "Furato",
+    "p": "MI"
+  },
+  {
+    "cc": "A869",
+    "id": "Biglio",
+    "p": "CO"
+  },
+  {
+    "cc": "B568",
+    "id": "Campospinoso Albaredo",
+    "p": "PV"
+  },
+  {
+    "cc": "B571",
+    "id": "Campovico",
+    "p": "SO"
+  },
+  {
+    "cc": "",
+    "id": "Cascina Mongiardino",
+    "p": ""
+  },
+  {
+    "cc": "L318",
+    "id": "Trabuchello",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Villa Roman\u00f2",
+    "p": ""
+  },
+  {
+    "cc": "E701",
+    "id": "Loveno Grumello",
+    "p": "BS"
+  },
+  {
+    "cc": "E776",
+    "id": "Maccagno Inferiore",
+    "p": "VA"
+  },
+  {
+    "cc": "B552",
+    "id": "Campomorto",
+    "p": "PV"
+  },
+  {
+    "cc": "B714",
+    "id": "Capronno",
+    "p": "VA"
+  },
+  {
+    "cc": "L226",
+    "id": "Tornavento",
+    "p": "VA"
+  },
+  {
+    "cc": "F752",
+    "id": "Morsenchio",
+    "p": "MI"
+  },
+  {
+    "cc": "D098",
+    "id": "Cossirano",
+    "p": "BS"
+  },
+  {
+    "cc": "H884",
+    "id": "San Giorgio su Legnano",
+    "p": "SanGiorgioSuLegnanoMI"
+  },
+  {
+    "cc": "",
+    "id": "Piadena Drizzona",
+    "p": ""
+  },
+  {
+    "cc": "B168",
+    "id": "Brianzola",
+    "p": "CO"
+  },
+  {
+    "cc": "I999",
+    "id": "Sulbiate Inferiore",
+    "p": "MI"
+  },
+  {
+    "cc": "C212",
+    "id": "Castelnovate",
+    "p": "VA"
+  },
+  {
+    "cc": "C965",
+    "id": "Consiglio di Rumo",
+    "p": "ConsiglioDiRumoCO"
+  },
+  {
+    "cc": "B623",
+    "id": "Canova Olzano",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Gazzo (CR)",
+    "p": ""
+  },
+  {
+    "cc": "D739",
+    "id": "Fossa Guazzona",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Birago (Lentate sul Seveso)",
+    "p": ""
+  },
+  {
+    "cc": "H595",
+    "id": "Rovagnasco",
+    "p": "MI"
+  },
+  {
+    "cc": "F435",
+    "id": "Montesiro",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Pieve San Maurizio (Torre de' Picenardi)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Massari Melzi",
+    "p": ""
+  },
+  {
+    "cc": "G930",
+    "id": "Poscante",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Ronca de' Golferami",
+    "p": ""
+  },
+  {
+    "cc": "H370",
+    "id": "Robecchetto",
+    "p": "MI"
+  },
+  {
+    "cc": "D919",
+    "id": "Garegnano",
+    "p": "MI"
+  },
+  {
+    "cc": "B059",
+    "id": "Borsano",
+    "p": "MI"
+  },
+  {
+    "cc": "L260",
+    "id": "Torre del Mangano",
+    "p": "TorreDelManganoPV"
+  },
+  {
+    "cc": "C832",
+    "id": "Colciago",
+    "p": "CO"
+  },
+  {
+    "cc": "B972",
+    "id": "Casirate Olona",
+    "p": "MI"
+  },
+  {
+    "cc": "D914",
+    "id": "Garbatola",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Casatico (Giussago)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Baggio (Milano)",
+    "p": ""
+  },
+  {
+    "cc": "G952",
+    "id": "Pozzaglio",
+    "p": "CR"
+  },
+  {
+    "cc": "I009",
+    "id": "San Martino in Beliseto",
+    "p": "SanMartinoInBelisetoCR"
+  },
+  {
+    "cc": "A620",
+    "id": "Barate",
+    "p": "MI"
+  },
+  {
+    "cc": "E717",
+    "id": "Lucernate",
+    "p": "MI"
+  },
+  {
+    "cc": "L446",
+    "id": "Trognano",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "Val Brembilla",
+    "p": ""
+  },
+  {
+    "cc": "B407",
+    "id": "Calepio",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Villongo Sant'Alessandro",
+    "p": ""
+  },
+  {
+    "cc": "C419",
+    "id": "Cedrate",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Nava (Colle Brianza)",
+    "p": ""
+  },
+  {
+    "cc": "H239",
+    "id": "Rescalda",
+    "p": "MI"
+  },
+  {
+    "cc": "B852",
+    "id": "Carugo Arosio",
+    "p": "CO"
+  },
+  {
+    "cc": "C249",
+    "id": "Castelponzone",
+    "p": "CR"
+  },
+  {
+    "cc": "A174",
+    "id": "Albusciago",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Tormo (Crespiatica)",
+    "p": ""
+  },
+  {
+    "cc": "L997",
+    "id": "Villa Pompeiana",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Cassina de' Bracchi",
+    "p": ""
+  },
+  {
+    "cc": "H487",
+    "id": "Roggiano Valtravaglia",
+    "p": "VA"
+  },
+  {
+    "cc": "C397",
+    "id": "Caversaccio",
+    "p": "CO"
+  },
+  {
+    "cc": "I097",
+    "id": "San Pietro Bestazzo",
+    "p": "MI"
+  },
+  {
+    "cc": "B211",
+    "id": "Brozzo",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Cereda (Perego)",
+    "p": ""
+  },
+  {
+    "cc": "A114",
+    "id": "Aizurro",
+    "p": "CO"
+  },
+  {
+    "cc": "H680",
+    "id": "Sala al Barro",
+    "p": "SalaAlBarroCO"
+  },
+  {
+    "cc": "L862",
+    "id": "Vigalfo",
+    "p": "PV"
+  },
+  {
+    "cc": "A636",
+    "id": "Barbiselle",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Contra (Missaglia)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Bruzzano",
+    "p": ""
+  },
+  {
+    "cc": "B140",
+    "id": "Brembilla",
+    "p": "BG"
+  },
+  {
+    "cc": "D833",
+    "id": "Gabbioneta",
+    "p": "CR"
+  },
+  {
+    "cc": "M076",
+    "id": "Visino",
+    "p": "CO"
+  },
+  {
+    "cc": "F896",
+    "id": "Nigoline",
+    "p": "BS"
+  },
+  {
+    "cc": "L756",
+    "id": "Verderio Superiore",
+    "p": "LC"
+  },
+  {
+    "cc": "E117",
+    "id": "Gottro",
+    "p": "CO"
+  },
+  {
+    "cc": "E194",
+    "id": "Grontorto",
+    "p": "CR"
+  },
+  {
+    "cc": "A381",
+    "id": "Ardena",
+    "p": "VA"
+  },
+  {
+    "cc": "G536",
+    "id": "Piadena",
+    "p": "CR"
+  },
+  {
+    "cc": "A378",
+    "id": "Arcumeggia",
+    "p": "VA"
+  },
+  {
+    "cc": "L170",
+    "id": "Timoline",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "C\u00e0 de' Tedioli",
+    "p": ""
+  },
+  {
+    "cc": "B053",
+    "id": "Bornato",
+    "p": "BS"
+  },
+  {
+    "cc": "G060",
+    "id": "Ombriano",
+    "p": "CR"
+  },
+  {
+    "cc": "B412",
+    "id": "Calignano",
+    "p": "PV"
+  },
+  {
+    "cc": "E267",
+    "id": "Guinzano",
+    "p": "PV"
+  },
+  {
+    "cc": "C015",
+    "id": "Cassina Ferrara",
+    "p": "VA"
+  },
+  {
+    "cc": "F018",
+    "id": "Masnago",
+    "p": "VA"
+  },
+  {
+    "cc": "G533",
+    "id": "Pezzoro",
+    "p": "BS"
+  },
+  {
+    "cc": "F169",
+    "id": "Mezzana Superiore",
+    "p": "VA"
+  },
+  {
+    "cc": "B599",
+    "id": "Canevino",
+    "p": "PV"
+  },
+  {
+    "cc": "B119",
+    "id": "Brancere",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Solbiate con Cagno",
+    "p": ""
+  },
+  {
+    "cc": "G723",
+    "id": "Pizzocorno",
+    "p": "PV"
+  },
+  {
+    "cc": "B625",
+    "id": "Cansero",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Runo (Dumenza)",
+    "p": ""
+  },
+  {
+    "cc": "F345",
+    "id": "Moncucco di Monza",
+    "p": "MoncuccoDiMonzaMI"
+  },
+  {
+    "cc": "",
+    "id": "Colverde",
+    "p": ""
+  },
+  {
+    "cc": "G059",
+    "id": "Omate",
+    "p": "MI"
+  },
+  {
+    "cc": "E151",
+    "id": "Gravedona",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Tremezzina (comune)",
+    "p": ""
+  },
+  {
+    "cc": "D908",
+    "id": "Garabiolo",
+    "p": "VA"
+  },
+  {
+    "cc": "C617",
+    "id": "Chiaravalle Milanese",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Frontignano (Barbariga)",
+    "p": ""
+  },
+  {
+    "cc": "D418",
+    "id": "Erbanno",
+    "p": "BS"
+  },
+  {
+    "cc": "L996",
+    "id": "Villa Pizzone",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Castellaro de' Giorgi",
+    "p": ""
+  },
+  {
+    "cc": "B148",
+    "id": "Sombreno",
+    "p": "BG"
+  },
+  {
+    "cc": "E733",
+    "id": "Luignano",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Traversa (Gravedona)",
+    "p": ""
+  },
+  {
+    "cc": "L867",
+    "id": "Vigano Certosino",
+    "p": "MI"
+  },
+  {
+    "cc": "L343",
+    "id": "Traversa",
+    "p": "CO"
+  },
+  {
+    "cc": "A866",
+    "id": "Bigarello",
+    "p": "MN"
+  },
+  {
+    "cc": "B422",
+    "id": "Calolzio",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Barzizza (Gandino)",
+    "p": ""
+  },
+  {
+    "cc": "E293",
+    "id": "Incino",
+    "p": "CO"
+  },
+  {
+    "cc": "D529",
+    "id": "Felonica",
+    "p": "MN"
+  },
+  {
+    "cc": "B363",
+    "id": "Caidate",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Rubbiano (Credera Rubbiano)",
+    "p": ""
+  },
+  {
+    "cc": "A939",
+    "id": "Bolladello",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Cadrezzate con Osmate",
+    "p": ""
+  },
+  {
+    "cc": "I572",
+    "id": "Seghebbia",
+    "p": "CO"
+  },
+  {
+    "cc": "E725",
+    "id": "Ludriano",
+    "p": "BS"
+  },
+  {
+    "cc": "A886",
+    "id": "Bisentrate",
+    "p": "MI"
+  },
+  {
+    "cc": "I064",
+    "id": "San Novo",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Nozza (Vestone)",
+    "p": ""
+  },
+  {
+    "cc": "G562",
+    "id": "Pian Gaiano",
+    "p": "BG"
+  },
+  {
+    "cc": "C456",
+    "id": "Cenate Sopra",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Pontecarate",
+    "p": ""
+  },
+  {
+    "cc": "G586",
+    "id": "Piazzo Basso",
+    "p": "BG"
+  },
+  {
+    "cc": "H840",
+    "id": "San Fermo della Battaglia",
+    "p": "SanFermoDellaBattagliaCO"
+  },
+  {
+    "cc": "B495",
+    "id": "Campagnano Vedasca",
+    "p": "VA"
+  },
+  {
+    "cc": "B253",
+    "id": "Bugiallo",
+    "p": "CO"
+  },
+  {
+    "cc": "A873",
+    "id": "Bindo",
+    "p": "CO"
+  },
+  {
+    "cc": "L766",
+    "id": "Vergo",
+    "p": "MI"
+  },
+  {
+    "cc": "M150",
+    "id": "Zavattarello",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "Cascina Grazzanello",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Armo (Valvestino)",
+    "p": ""
+  },
+  {
+    "cc": "A384",
+    "id": "Ardole San Marino",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Muggiano (Milano)",
+    "p": ""
+  },
+  {
+    "cc": "B316",
+    "id": "Campoverde",
+    "p": "BS"
+  },
+  {
+    "cc": "F264",
+    "id": "Moerna",
+    "p": "TN"
+  },
+  {
+    "cc": "E268",
+    "id": "Gurone",
+    "p": "VA"
+  },
+  {
+    "cc": "D067",
+    "id": "Corteolona",
+    "p": "PV"
+  },
+  {
+    "cc": "M114",
+    "id": "Voldomino",
+    "p": "VA"
+  },
+  {
+    "cc": "I380",
+    "id": "San Varese",
+    "p": "PV"
+  },
+  {
+    "cc": "A289",
+    "id": "Anfurro",
+    "p": "BS"
+  },
+  {
+    "cc": "B087",
+    "id": "Bottaiano",
+    "p": "CR"
+  },
+  {
+    "cc": "D795",
+    "id": "Frerola",
+    "p": "BG"
+  },
+  {
+    "cc": "G104",
+    "id": "Origioso",
+    "p": "PV"
+  },
+  {
+    "cc": "E920",
+    "id": "Marcallo",
+    "p": "MI"
+  },
+  {
+    "cc": "H170",
+    "id": "Ramponio",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Rezzonico (Italia)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Sant'Ambrogio Olona",
+    "p": ""
+  },
+  {
+    "cc": "D446",
+    "id": "Fabiasco",
+    "p": "VA"
+  },
+  {
+    "cc": "H309",
+    "id": "Riozzo",
+    "p": "MI"
+  },
+  {
+    "cc": "L467",
+    "id": "Turago Bordone",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "San Gallo (San Giovanni Bianco)",
+    "p": ""
+  },
+  {
+    "cc": "G958",
+    "id": "Pozzo Baronzio",
+    "p": "CR"
+  },
+  {
+    "cc": "L358",
+    "id": "Trecella",
+    "p": "MI"
+  },
+  {
+    "cc": "B011",
+    "id": "Borgoforte",
+    "p": "MN"
+  },
+  {
+    "cc": "",
+    "id": "Rebbio (Como)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Cavaione (Truccazzano)",
+    "p": ""
+  },
+  {
+    "cc": "M049",
+    "id": "Vilminore",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Torre de' Picenardi",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Isola Comacina (comune)",
+    "p": ""
+  },
+  {
+    "cc": "A063",
+    "id": "Affori",
+    "p": "MI"
+  },
+  {
+    "cc": "C642",
+    "id": "Chiosi d'Adda Vigadore",
+    "p": "ChiosiD'addaVigadoreMI"
+  },
+  {
+    "cc": "",
+    "id": "Ca de' Bonavogli",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Passirana",
+    "p": ""
+  },
+  {
+    "cc": "D017",
+    "id": "Cornale",
+    "p": "PV"
+  },
+  {
+    "cc": "I160",
+    "id": "San Sillo",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Persone (Valvestino)",
+    "p": ""
+  },
+  {
+    "cc": "G640",
+    "id": "Pieve Delmona",
+    "p": "CR"
+  },
+  {
+    "cc": "C028",
+    "id": "Cassine Calderari",
+    "p": "PV"
+  },
+  {
+    "cc": "L695",
+    "id": "Vassena",
+    "p": "CO"
+  },
+  {
+    "cc": "B753",
+    "id": "Cardana",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Grignano (Brembate)",
+    "p": ""
+  },
+  {
+    "cc": "I385",
+    "id": "San Vigilio",
+    "p": "BS"
+  },
+  {
+    "cc": "C023",
+    "id": "Cassina Triulza",
+    "p": "MI"
+  },
+  {
+    "cc": "I099",
+    "id": "San Pietro Cusico",
+    "p": "MI"
+  },
+  {
+    "cc": "A829",
+    "id": "Bestazzo",
+    "p": "MI"
+  },
+  {
+    "cc": "L976",
+    "id": "Villanova Vimercate",
+    "p": "MI"
+  },
+  {
+    "cc": "C054",
+    "id": "Castegnate Olona",
+    "p": "MI"
+  },
+  {
+    "cc": "B975",
+    "id": "Caslino al Piano",
+    "p": "CaslinoAlPianoCO"
+  },
+  {
+    "cc": "C451",
+    "id": "Celpenchio",
+    "p": "PV"
+  },
+  {
+    "cc": "G180",
+    "id": "Ossolaro",
+    "p": "CR"
+  },
+  {
+    "cc": "B654",
+    "id": "Capiate",
+    "p": "CO"
+  },
+  {
+    "cc": "C798",
+    "id": "Clusane sul Lago",
+    "p": "ClusaneSulLagoBS"
+  },
+  {
+    "cc": "F314",
+    "id": "Mombello Lago Maggiore",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Puegnago del Garda",
+    "p": ""
+  },
+  {
+    "cc": "B231",
+    "id": "Brusuglio",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "C\u00e0 de' Stefani",
+    "p": ""
+  },
+  {
+    "cc": "C762",
+    "id": "Civiglio",
+    "p": "CO"
+  },
+  {
+    "cc": "B199",
+    "id": "Brolpasino",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Rovereto (Credera Rubbiano)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Barona (Albuzzano)",
+    "p": ""
+  },
+  {
+    "cc": "F289",
+    "id": "Molini di Colognola",
+    "p": "MoliniDiColognolaBG"
+  },
+  {
+    "cc": "A002",
+    "id": "Abbadia sopra Adda",
+    "p": "AbbadiaSopraAddaCO"
+  },
+  {
+    "cc": "",
+    "id": "Chiosi di Porta Regale",
+    "p": ""
+  },
+  {
+    "cc": "H813",
+    "id": "San Damiano di Monza",
+    "p": "SanDamianoDiMonzaMI"
+  },
+  {
+    "cc": "",
+    "id": "Castellazzo (Bollate)",
+    "p": ""
+  },
+  {
+    "cc": "L368",
+    "id": "Tremenico",
+    "p": "LC"
+  },
+  {
+    "cc": "",
+    "id": "Oriano (San Paolo)",
+    "p": ""
+  },
+  {
+    "cc": "L141",
+    "id": "Terzano",
+    "p": "BS"
+  },
+  {
+    "cc": "G567",
+    "id": "Piano Porlezza",
+    "p": "CO"
+  },
+  {
+    "cc": "B908",
+    "id": "Casalorzo Geroldi",
+    "p": "CR"
+  },
+  {
+    "cc": "C328",
+    "id": "Castiraga da Reggio",
+    "p": "CastiragaDaReggioMI"
+  },
+  {
+    "cc": "A830",
+    "id": "Bettenesco",
+    "p": "CR"
+  },
+  {
+    "cc": "B488",
+    "id": "Camnago Faloppia",
+    "p": "CO"
+  },
+  {
+    "cc": "E739",
+    "id": "Lumezzane Pieve",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Bastida de' Dossi",
+    "p": ""
+  },
+  {
+    "cc": "C491",
+    "id": "Cerchiate",
+    "p": "MI"
+  },
+  {
+    "cc": "L068",
+    "id": "Tavazzano",
+    "p": "MI"
+  },
+  {
+    "cc": "F321",
+    "id": "Mompiano",
+    "p": "BS"
+  },
+  {
+    "cc": "C753",
+    "id": "Civello",
+    "p": "CO"
+  },
+  {
+    "cc": "H601",
+    "id": "Rovellasca",
+    "p": "CO"
+  },
+  {
+    "cc": "L373",
+    "id": "Trenno",
+    "p": "MI"
+  },
+  {
+    "cc": "D500",
+    "id": "Farinate",
+    "p": "CR"
+  },
+  {
+    "cc": "A416",
+    "id": "Armio",
+    "p": "VA"
+  },
+  {
+    "cc": "D448",
+    "id": "Fabbrica Durini",
+    "p": "CO"
+  },
+  {
+    "cc": "L791",
+    "id": "Vertemate",
+    "p": "CO"
+  },
+  {
+    "cc": "B347",
+    "id": "Cadrezzate",
+    "p": "VA"
+  },
+  {
+    "cc": "F903",
+    "id": "Nizzolina",
+    "p": "VA"
+  },
+  {
+    "cc": "C683",
+    "id": "Cignone",
+    "p": "CR"
+  },
+  {
+    "cc": "D435",
+    "id": "Esino Inferiore",
+    "p": "CO"
+  },
+  {
+    "cc": "H141",
+    "id": "Quinzano San Pietro",
+    "p": "VA"
+  },
+  {
+    "cc": "G889",
+    "id": "Porlezza",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Acqualunga (Borgo San Giacomo)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Cascina Lardera",
+    "p": ""
+  },
+  {
+    "cc": "I080",
+    "id": "San Perone",
+    "p": "PV"
+  },
+  {
+    "cc": "I587",
+    "id": "Sellere",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Campagnano",
+    "p": ""
+  },
+  {
+    "cc": "I860",
+    "id": "Sormano",
+    "p": "CO"
+  },
+  {
+    "cc": "C997",
+    "id": "Corenno Plinio",
+    "p": "CO"
+  },
+  {
+    "cc": "H050",
+    "id": "Prestine",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Cascina Guazzina",
+    "p": ""
+  },
+  {
+    "cc": "H137",
+    "id": "Quinto Romano",
+    "p": "MI"
+  },
+  {
+    "cc": "G256",
+    "id": "Palanzo",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Caselle d'Ozzero",
+    "p": ""
+  },
+  {
+    "cc": "E046",
+    "id": "Giovenzano",
+    "p": "PV"
+  },
+  {
+    "cc": "B372",
+    "id": "Cajello",
+    "p": "MI"
+  },
+  {
+    "cc": "I515",
+    "id": "Scarpizzolo",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Vermezzo con Zelo",
+    "p": ""
+  },
+  {
+    "cc": "H477",
+    "id": "Rodengo-Saiano",
+    "p": "Rodengo-saianoBS"
+  },
+  {
+    "cc": "G475",
+    "id": "Pertica Bassa",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Mazzoleni",
+    "p": ""
+  },
+  {
+    "cc": "D340",
+    "id": "Donelasco",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "Mandrino (PV)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Santa Margherita (Lissone)",
+    "p": ""
+  },
+  {
+    "cc": "D692",
+    "id": "Forcello",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Acqua (Tresivio)",
+    "p": ""
+  },
+  {
+    "cc": "D167",
+    "id": "Crevenna",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Gravedona ed Uniti",
+    "p": ""
+  },
+  {
+    "cc": "C411",
+    "id": "Cazzano Besana",
+    "p": "MI"
+  },
+  {
+    "cc": "E775",
+    "id": "Maccagno",
+    "p": "VA"
+  },
+  {
+    "cc": "C477",
+    "id": "Ceppeda",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Cantalupo (Cerro Maggiore)",
+    "p": ""
+  },
+  {
+    "cc": "C021",
+    "id": "Cassina Savina",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Torre de' Torti",
+    "p": ""
+  },
+  {
+    "cc": "C025",
+    "id": "Cassina Verghera",
+    "p": "VA"
+  },
+  {
+    "cc": "A147",
+    "id": "Triburgo",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Cividate Malegno",
+    "p": ""
+  },
+  {
+    "cc": "G711",
+    "id": "Pissarello",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "Colombarolo (Voltido)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Gorzone (Darfo Boario Terme)",
+    "p": ""
+  },
+  {
+    "cc": "A934",
+    "id": "Boldinasco",
+    "p": "MI"
+  },
+  {
+    "cc": "D985",
+    "id": "Germanedo",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Borgocarbonara",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Oriano Brianza",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Cascina Triulzina",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Cuveglio in Valle",
+    "p": ""
+  },
+  {
+    "cc": "F938",
+    "id": "Nosadello",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "La Valletta Brianza",
+    "p": ""
+  },
+  {
+    "cc": "C802",
+    "id": "Coazzano",
+    "p": "MI"
+  },
+  {
+    "cc": "F166",
+    "id": "Mezzana Casati",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Cornegliano Bertario",
+    "p": ""
+  },
+  {
+    "cc": "I816",
+    "id": "Somana",
+    "p": "CO"
+  },
+  {
+    "cc": "F827",
+    "id": "Musocco",
+    "p": "MI"
+  },
+  {
+    "cc": "C522",
+    "id": "Cernusco Montevecchia",
+    "p": "CO"
+  },
+  {
+    "cc": "D163",
+    "id": "Cressogno",
+    "p": "CO"
+  },
+  {
+    "cc": "G219",
+    "id": "Paderno Cremonese",
+    "p": "CR"
+  },
+  {
+    "cc": "G013",
+    "id": "Olate",
+    "p": "CO"
+  },
+  {
+    "cc": "M001",
+    "id": "Villa Raverio",
+    "p": "MI"
+  },
+  {
+    "cc": "D370",
+    "id": "Drizzona",
+    "p": "CR"
+  },
+  {
+    "cc": "B821",
+    "id": "Carpignago",
+    "p": "PV"
+  },
+  {
+    "cc": "C159",
+    "id": "Castelletto Mendosio",
+    "p": "MI"
+  },
+  {
+    "cc": "A423",
+    "id": "Arnate",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Sant'Alessandro (Brescia)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Sant'Abbondio (San Siro)",
+    "p": ""
+  },
+  {
+    "cc": "E601",
+    "id": "Linate al Lambro",
+    "p": "LinateAlLambroMI"
+  },
+  {
+    "cc": "L370",
+    "id": "Tremezzina",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Orino-Azzio",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Costa Monticelli",
+    "p": ""
+  },
+  {
+    "cc": "B113",
+    "id": "Bracca di Costa Serina",
+    "p": "BraccaDiCostaSerinaBG"
+  },
+  {
+    "cc": "D140",
+    "id": "Credera",
+    "p": "CR"
+  },
+  {
+    "cc": "A623",
+    "id": "Barbaiana",
+    "p": "MI"
+  },
+  {
+    "cc": "D816",
+    "id": "Fuipiano al Brembo",
+    "p": "FuipianoAlBremboBG"
+  },
+  {
+    "cc": "H636",
+    "id": "Ruginello",
+    "p": "MI"
+  },
+  {
+    "cc": "M056",
+    "id": "Vinago",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Breccia (Como)",
+    "p": ""
+  },
+  {
+    "cc": "D846",
+    "id": "Gaggino",
+    "p": "CO"
+  },
+  {
+    "cc": "D466",
+    "id": "Fagnano sul Naviglio",
+    "p": "FagnanoSulNaviglioMI"
+  },
+  {
+    "cc": "",
+    "id": "Loveno (Menaggio)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Zappello",
+    "p": ""
+  },
+  {
+    "cc": "A775",
+    "id": "Belvedere al Po",
+    "p": "BelvedereAlPoPV"
+  },
+  {
+    "cc": "E631",
+    "id": "Lizzola",
+    "p": "BG"
+  },
+  {
+    "cc": "D462",
+    "id": "Faggeto Lario",
+    "p": "CO"
+  },
+  {
+    "cc": "G810",
+    "id": "Pometo",
+    "p": "PV"
+  },
+  {
+    "cc": "F222",
+    "id": "Minoprio",
+    "p": "CO"
+  },
+  {
+    "cc": "G366",
+    "id": "Pasturago",
+    "p": "MI"
+  },
+  {
+    "cc": "F099",
+    "id": "Melegnanello",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Gorlaprecotto",
+    "p": ""
+  },
+  {
+    "cc": "I245",
+    "id": "Santa Maria in Prato",
+    "p": "SantaMariaInPratoMI"
+  },
+  {
+    "cc": "D991",
+    "id": "Gerosa",
+    "p": "BG"
+  },
+  {
+    "cc": "C586",
+    "id": "Ceto-Cerveno",
+    "p": "Ceto-cervenoBS"
+  },
+  {
+    "cc": "",
+    "id": "Sant'Antonino Ticino",
+    "p": ""
+  },
+  {
+    "cc": "M181",
+    "id": "Zivido",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Degagna (frazione)",
+    "p": ""
+  },
+  {
+    "cc": "D986",
+    "id": "Germasino",
+    "p": "CO"
+  },
+  {
+    "cc": "I810",
+    "id": "Soltarico",
+    "p": "MI"
+  },
+  {
+    "cc": "E137",
+    "id": "Grancino",
+    "p": "MI"
+  },
+  {
+    "cc": "A533",
+    "id": "Azzone",
+    "p": "BG"
+  },
+  {
+    "cc": "B370",
+    "id": "Cairo Lomellino",
+    "p": "PV"
+  },
+  {
+    "cc": "E604",
+    "id": "Linzanico",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Corte Sant'Andrea",
+    "p": ""
+  },
+  {
+    "cc": "B045",
+    "id": "Borgounito",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Vidiceto",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Santa Maria Ho\u00e8",
+    "p": ""
+  },
+  {
+    "cc": "E162",
+    "id": "Greco Milanese",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Castello Brianza",
+    "p": ""
+  },
+  {
+    "cc": "G585",
+    "id": "Piazzo Alto",
+    "p": "BG"
+  },
+  {
+    "cc": "G668",
+    "id": "Pilzone",
+    "p": "BS"
+  },
+  {
+    "cc": "G828",
+    "id": "Ponte",
+    "p": "CO"
+  },
+  {
+    "cc": "H883",
+    "id": "San Giorgio di Mantova",
+    "p": "SanGiorgioDiMantovaMN"
+  },
+  {
+    "cc": "A745",
+    "id": "Bellano",
+    "p": "LC"
+  },
+  {
+    "cc": "E286",
+    "id": "Imberido",
+    "p": "CO"
+  },
+  {
+    "cc": "I761",
+    "id": "Sirtori",
+    "p": "LC"
+  },
+  {
+    "cc": "B353",
+    "id": "Cagliano",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Sabbioncello (Merate)",
+    "p": ""
+  },
+  {
+    "cc": "D036",
+    "id": "Corpi Santi di Pavia",
+    "p": "CorpiSantiDiPaviaPV"
+  },
+  {
+    "cc": "E362",
+    "id": "Isolello",
+    "p": "CR"
+  },
+  {
+    "cc": "I913",
+    "id": "Spino al Brembo",
+    "p": "SpinoAlBremboBG"
+  },
+  {
+    "cc": "H055",
+    "id": "Prevalle",
+    "p": "BS"
+  },
+  {
+    "cc": "A680",
+    "id": "Bartesate",
+    "p": "CO"
+  },
+  {
+    "cc": "D047",
+    "id": "Cortabbio",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Maccagno con Pino e Veddasca",
+    "p": ""
+  },
+  {
+    "cc": "G172",
+    "id": "Ossalengo",
+    "p": "CR"
+  },
+  {
+    "cc": "D381",
+    "id": "Dugnano",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "San Lorenzo de' Picenardi",
+    "p": ""
+  },
+  {
+    "cc": "I916",
+    "id": "Spinone al Lago",
+    "p": "SpinoneAlLagoBG"
+  },
+  {
+    "cc": "H032",
+    "id": "Premezzo",
+    "p": "VA"
+  },
+  {
+    "cc": "F215",
+    "id": "Milzanello",
+    "p": "BS"
+  },
+  {
+    "cc": "B299",
+    "id": "Bustighera",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Castellazzo de' Barzi",
+    "p": ""
+  },
+  {
+    "cc": "E781",
+    "id": "Maccio",
+    "p": "CO"
+  },
+  {
+    "cc": "H637",
+    "id": "Ruino",
+    "p": "PV"
+  },
+  {
+    "cc": "H116",
+    "id": "Quarto Cagnino",
+    "p": "MI"
+  },
+  {
+    "cc": "L371",
+    "id": "Tremezzo",
+    "p": "CO"
+  },
+  {
+    "cc": "I252",
+    "id": "Santa Maria Rezzonico",
+    "p": "CO"
+  },
+  {
+    "cc": "H548",
+    "id": "Rongio",
+    "p": "CO"
+  },
+  {
+    "cc": "A247",
+    "id": "Alzano Maggiore",
+    "p": "BG"
+  },
+  {
+    "cc": "G246",
+    "id": "Paisco",
+    "p": "BS"
+  },
+  {
+    "cc": "L209",
+    "id": "Torbiato",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "C\u00e0 de' Sfondrati",
+    "p": ""
+  },
+  {
+    "cc": "L855",
+    "id": "Vidolasco",
+    "p": "CR"
+  },
+  {
+    "cc": "A046",
+    "id": "Acquate",
+    "p": "CO"
+  },
+  {
+    "cc": "L938",
+    "id": "Villa d'Ogna",
+    "p": "VillaD'ognaBG"
+  },
+  {
+    "cc": "D275",
+    "id": "Dergano",
+    "p": "MI"
+  },
+  {
+    "cc": "D034",
+    "id": "Corpi Santi di Cremona",
+    "p": "CorpiSantiDiCremonaCR"
+  },
+  {
+    "cc": "H905",
+    "id": "San Giovanni alla Castagna",
+    "p": "SanGiovanniAllaCastagnaCO"
+  },
+  {
+    "cc": "I127",
+    "id": "San Ponzo Semola",
+    "p": "PV"
+  },
+  {
+    "cc": "L902",
+    "id": "Vigonzone",
+    "p": "PV"
+  },
+  {
+    "cc": "G490",
+    "id": "Peschiera Maraglio",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Ca de' Bolli",
+    "p": ""
+  },
+  {
+    "cc": "A688",
+    "id": "Barzola",
+    "p": "VA"
+  },
+  {
+    "cc": "A938",
+    "id": "Bolgiano",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Villa Dalegno",
+    "p": ""
+  },
+  {
+    "cc": "A037",
+    "id": "Acqualunga Badona",
+    "p": "CR"
+  },
+  {
+    "cc": "C035",
+    "id": "Cassino Po",
+    "p": "PV"
+  },
+  {
+    "cc": "F525",
+    "id": "Montegrino",
+    "p": "VA"
+  },
+  {
+    "cc": "L940",
+    "id": "Villa Dosia",
+    "p": "VA"
+  },
+  {
+    "cc": "B909",
+    "id": "Casalpoglio",
+    "p": "MN"
+  },
+  {
+    "cc": "",
+    "id": "Valsaviore (comune)",
+    "p": ""
+  },
+  {
+    "cc": "B022",
+    "id": "Borgonato",
+    "p": "BS"
+  },
+  {
+    "cc": "E619",
+    "id": "Livemmo",
+    "p": "BS"
+  },
+  {
+    "cc": "D220",
+    "id": "Curnasco",
+    "p": "BG"
+  },
+  {
+    "cc": "G218",
+    "id": "Paderno d'Adda",
+    "p": "PadernoD'addaLC"
+  },
+  {
+    "cc": "B146",
+    "id": "Brenno Useria",
+    "p": "VA"
+  },
+  {
+    "cc": "F825",
+    "id": "Musignano",
+    "p": "VA"
+  },
+  {
+    "cc": "E495",
+    "id": "Laveno",
+    "p": "VA"
+  },
+  {
+    "cc": "B147",
+    "id": "Brenno della Torre",
+    "p": "BrennoDellaTorreCO"
+  },
+  {
+    "cc": "F237",
+    "id": "Mirabello ed Uniti di Pavia",
+    "p": "MirabelloEdUnitiDiPaviaPV"
+  },
+  {
+    "cc": "G072",
+    "id": "Onno",
+    "p": "CO"
+  },
+  {
+    "cc": "E802",
+    "id": "Maggianico",
+    "p": "CO"
+  },
+  {
+    "cc": "C036",
+    "id": "Cassino d'Alberi",
+    "p": "CassinoD'alberiMI"
+  },
+  {
+    "cc": "B241",
+    "id": "Buccinigo",
+    "p": "CO"
+  },
+  {
+    "cc": "D148",
+    "id": "Cremnago",
+    "p": "CO"
+  },
+  {
+    "cc": "C373",
+    "id": "Cavallara",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Velate Milanese",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Borgo Virgilio",
+    "p": ""
+  },
+  {
+    "cc": "I675",
+    "id": "Sesona",
+    "p": "VA"
+  },
+  {
+    "cc": "A985",
+    "id": "Bordogna",
+    "p": "BG"
+  },
+  {
+    "cc": "I077",
+    "id": "San Pedrino",
+    "p": "MI"
+  },
+  {
+    "cc": "B263",
+    "id": "Bulgorello",
+    "p": "CO"
+  },
+  {
+    "cc": "E886",
+    "id": "Mangialupo",
+    "p": "PV"
+  },
+  {
+    "cc": "F794",
+    "id": "Muceno",
+    "p": "VA"
+  },
+  {
+    "cc": "D626",
+    "id": "Fiumicello Urago",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Stilo de' Mariani",
+    "p": ""
+  },
+  {
+    "cc": "H232",
+    "id": "Remedello Sotto",
+    "p": "BS"
+  },
+  {
+    "cc": "F854",
+    "id": "Navono",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Vill'Albese",
+    "p": ""
+  },
+  {
+    "cc": "C985",
+    "id": "Corbesate",
+    "p": "PV"
+  },
+  {
+    "cc": "A190",
+    "id": "Alfiano ed Uniti",
+    "p": "AlfianoEdUnitiCR"
+  },
+  {
+    "cc": "B702",
+    "id": "Capriate d'Adda",
+    "p": "CapriateD'addaBG"
+  },
+  {
+    "cc": "",
+    "id": "Costa Sant'Abramo",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Cassine Gandine",
+    "p": ""
+  },
+  {
+    "cc": "H172",
+    "id": "Rancio di Lecco",
+    "p": "RancioDiLeccoCO"
+  },
+  {
+    "cc": "L755",
+    "id": "Verderio Inferiore",
+    "p": "LC"
+  },
+  {
+    "cc": "F204",
+    "id": "Mignete",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Cascina Isola Balba",
+    "p": ""
+  },
+  {
+    "cc": "G655",
+    "id": "Pieve Terzagni",
+    "p": "CR"
+  },
+  {
+    "cc": "G174",
+    "id": "Ossanesga",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Dasio (Valsolda)",
+    "p": ""
+  },
+  {
+    "cc": "I500",
+    "id": "Scannabue",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "C\u00e0 de' Staoli",
+    "p": ""
+  },
+  {
+    "cc": "E260",
+    "id": "Gugnano",
+    "p": "MI"
+  },
+  {
+    "cc": "B926",
+    "id": "Casanova Lanza",
+    "p": "CO"
+  },
+  {
+    "cc": "E197",
+    "id": "Groppello d'Adda",
+    "p": "GroppelloD'addaMI"
+  },
+  {
+    "cc": "B728",
+    "id": "Carate Lario",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Cimbro (Vergiate)",
+    "p": ""
+  },
+  {
+    "cc": "L925",
+    "id": "Villa Cogozzo",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Sant'Antonio d'Adda",
+    "p": ""
+  },
+  {
+    "cc": "C457",
+    "id": "Cenate Sotto",
+    "p": "BG"
+  },
+  {
+    "cc": "G448",
+    "id": "Perego",
+    "p": "LC"
+  },
+  {
+    "cc": "L029",
+    "id": "Tagliuno",
+    "p": "BG"
+  },
+  {
+    "cc": "A168",
+    "id": "Albogasio",
+    "p": "CO"
+  },
+  {
+    "cc": "M008",
+    "id": "Villarocca",
+    "p": "CR"
+  },
+  {
+    "cc": "M193",
+    "id": "Zorzino",
+    "p": "BG"
+  },
+  {
+    "cc": "H318",
+    "id": "Ripalta Vecchia",
+    "p": "CR"
+  },
+  {
+    "cc": "I814",
+    "id": "Solzago",
+    "p": "CO"
+  },
+  {
+    "cc": "D973",
+    "id": "Genzone",
+    "p": "PV"
+  },
+  {
+    "cc": "I632",
+    "id": "Sermide",
+    "p": "MN"
+  },
+  {
+    "cc": "H123",
+    "id": "Virgilio",
+    "p": "MN"
+  },
+  {
+    "cc": "L825",
+    "id": "Vho",
+    "p": "CR"
+  },
+  {
+    "cc": "D091",
+    "id": "Due Cossani",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Chiosi di Porta Cremonese",
+    "p": ""
+  },
+  {
+    "cc": "A011",
+    "id": "Abbiateguazzone",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Colombaro (Corte Franca)",
+    "p": ""
+  },
+  {
+    "cc": "G245",
+    "id": "Pairana",
+    "p": "PV"
+  },
+  {
+    "cc": "C017",
+    "id": "Cassina Nuova",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Monteleone (Inverno e Monteleone)",
+    "p": ""
+  },
+  {
+    "cc": "B751",
+    "id": "Carcina",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Cascina Orgnaga",
+    "p": ""
+  },
+  {
+    "cc": "A921",
+    "id": "Boffetto",
+    "p": "SO"
+  },
+  {
+    "cc": "B329",
+    "id": "Ca dell'Acqua",
+    "p": "CaDell'acquaMI"
+  },
+  {
+    "cc": "",
+    "id": "Seprio (comune)",
+    "p": ""
+  },
+  {
+    "cc": "L405",
+    "id": "Trevisago",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Gorla Primo",
+    "p": ""
+  },
+  {
+    "cc": "E075",
+    "id": "Goglione Sopra",
+    "p": "BS"
+  },
+  {
+    "cc": "D190",
+    "id": "Crugnola",
+    "p": "VA"
+  },
+  {
+    "cc": "B786",
+    "id": "Carlazzo Valsolda",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Breda Guazzona",
+    "p": ""
+  },
+  {
+    "cc": "H968",
+    "id": "San Lorenzo Mondinari",
+    "p": "CR"
+  },
+  {
+    "cc": "H668",
+    "id": "Saiano",
+    "p": "BS"
+  },
+  {
+    "cc": "E220",
+    "id": "Grumello del Piano",
+    "p": "GrumelloDelPianoBG"
+  },
+  {
+    "cc": "F234",
+    "id": "Mirabello Ciria",
+    "p": "CR"
+  },
+  {
+    "cc": "H596",
+    "id": "Rovagnate",
+    "p": "LC"
+  },
+  {
+    "cc": "F334",
+    "id": "Monate",
+    "p": "VA"
+  },
+  {
+    "cc": "I837",
+    "id": "Soprazocco",
+    "p": "BS"
+  },
+  {
+    "cc": "H075",
+    "id": "Prospiano",
+    "p": "MI"
+  },
+  {
+    "cc": "D001",
+    "id": "Corgeno",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Mont\u00f9 Berchielli",
+    "p": ""
+  },
+  {
+    "cc": "B874",
+    "id": "Casale Cremasco",
+    "p": "CR"
+  },
+  {
+    "cc": "A142",
+    "id": "Albate",
+    "p": "CO"
+  },
+  {
+    "cc": "G301",
+    "id": "Palvareto",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Carzago Riviera",
+    "p": ""
+  },
+  {
+    "cc": "B622",
+    "id": "Canova del Morbasco",
+    "p": "CanovaDelMorbascoCR"
+  },
+  {
+    "cc": "B973",
+    "id": "Casletto",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Cella (CR)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Cascina Robecco",
+    "p": ""
+  },
+  {
+    "cc": "E582",
+    "id": "Lieto Colle",
+    "p": "CO"
+  },
+  {
+    "cc": "G427",
+    "id": "Pellio Intelvi",
+    "p": "CO"
+  },
+  {
+    "cc": "C109",
+    "id": "Castelfranco d'Oglio",
+    "p": "CastelfrancoD'oglioCR"
+  },
+  {
+    "cc": "L652",
+    "id": "Valtesse",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Velate (Varese)",
+    "p": ""
+  },
+  {
+    "cc": "I509",
+    "id": "Scaria",
+    "p": "CO"
+  },
+  {
+    "cc": "F344",
+    "id": "Moncucco Vecchio",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Paderno (Paderno Dugnano)",
+    "p": ""
+  },
+  {
+    "cc": "C368",
+    "id": "Cavagnera",
+    "p": "PV"
+  },
+  {
+    "cc": "C786",
+    "id": "Cizzago",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Prado (Cura Carpignano)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "C\u00e0 de' Corti",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Camporinaldo",
+    "p": ""
+  },
+  {
+    "cc": "I691",
+    "id": "Sesto Ulteriano",
+    "p": "MI"
+  },
+  {
+    "cc": "L130",
+    "id": "Terrasa",
+    "p": "PV"
+  },
+  {
+    "cc": "B475",
+    "id": "Camerlata",
+    "p": "CO"
+  },
+  {
+    "cc": "D363",
+    "id": "Drano",
+    "p": "CO"
+  },
+  {
+    "cc": "D580",
+    "id": "Figino di Milano",
+    "p": "FiginoDiMilanoMI"
+  },
+  {
+    "cc": "F008",
+    "id": "Masciago Milanese",
+    "p": "MI"
+  },
+  {
+    "cc": "M054",
+    "id": "Vimogno",
+    "p": "CO"
+  },
+  {
+    "cc": "F163",
+    "id": "Mettone",
+    "p": "MI"
+  },
+  {
+    "cc": "E637",
+    "id": "Locate Bergamasco",
+    "p": "BG"
+  },
+  {
+    "cc": "B252",
+    "id": "Buggiolo",
+    "p": "CO"
+  },
+  {
+    "cc": "H520",
+    "id": "Romprezzagno",
+    "p": "CR"
+  },
+  {
+    "cc": "A153",
+    "id": "Albese con Cassano",
+    "p": "AlbeseConCassanoCO"
+  },
+  {
+    "cc": "G868",
+    "id": "Pontirolo Capredoni",
+    "p": "CR"
+  },
+  {
+    "cc": "A861",
+    "id": "Bienno",
+    "p": "BS"
+  },
+  {
+    "cc": "E386",
+    "id": "Jerago con Orago",
+    "p": "JeragoConOragoVA"
+  },
+  {
+    "cc": "L754",
+    "id": "Verderio",
+    "p": "CO"
+  },
+  {
+    "cc": "D071",
+    "id": "Cortetano",
+    "p": "CR"
+  },
+  {
+    "cc": "L362",
+    "id": "Tregasio",
+    "p": "MI"
+  },
+  {
+    "cc": "E616",
+    "id": "Lissago",
+    "p": "VA"
+  },
+  {
+    "cc": "B981",
+    "id": "Casolate",
+    "p": "MI"
+  },
+  {
+    "cc": "M175",
+    "id": "Zibido al Lambro",
+    "p": "ZibidoAlLambroPV"
+  },
+  {
+    "cc": "",
+    "id": "Padernello (Borgo San Giacomo)",
+    "p": ""
+  },
+  {
+    "cc": "A908",
+    "id": "Bobbiate",
+    "p": "VA"
+  },
+  {
+    "cc": "B013",
+    "id": "Borgofranco sul Po",
+    "p": "BorgofrancoSulPoMN"
+  },
+  {
+    "cc": "C001",
+    "id": "Cassano Albese",
+    "p": "CO"
+  },
+  {
+    "cc": "F427",
+    "id": "Montano Lucino",
+    "p": "CO"
+  },
+  {
+    "cc": "G633",
+    "id": "Pieve di Coriano",
+    "p": "PieveDiCorianoMN"
+  },
+  {
+    "cc": "I818",
+    "id": "Somendenna",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "M\u00f9 (Italia)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Fracchia (Spino d'Adda)",
+    "p": ""
+  },
+  {
+    "cc": "H138",
+    "id": "Quintosole",
+    "p": "MI"
+  },
+  {
+    "cc": "C018",
+    "id": "Cassina Pertusella",
+    "p": "VA"
+  },
+  {
+    "cc": "E090",
+    "id": "Gordona",
+    "p": "SO"
+  },
+  {
+    "cc": "A248",
+    "id": "Alzano Sopra",
+    "p": "BG"
+  },
+  {
+    "cc": "E525",
+    "id": "Lenno",
+    "p": "CO"
+  },
+  {
+    "cc": "H171",
+    "id": "Ramponio Verna",
+    "p": "CO"
+  },
+  {
+    "cc": "B359",
+    "id": "Cagno",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Due Miglia",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Farfengo (Borgo San Giacomo)",
+    "p": ""
+  },
+  {
+    "cc": "H231",
+    "id": "Remedello Sopra",
+    "p": "BS"
+  },
+  {
+    "cc": "H397",
+    "id": "Rocca del Colle",
+    "p": "RoccaDelColleBG"
+  },
+  {
+    "cc": "",
+    "id": "Pantanedo",
+    "p": ""
+  },
+  {
+    "cc": "E318",
+    "id": "Inzino",
+    "p": "BS"
+  },
+  {
+    "cc": "G265",
+    "id": "Palazzolo Milanese",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Stazzona (Italia)",
+    "p": ""
+  },
+  {
+    "cc": "H830",
+    "id": "San Fedele Intelvi",
+    "p": "CO"
+  },
+  {
+    "cc": "D073",
+    "id": "Corticelle Pieve",
+    "p": "BS"
+  },
+  {
+    "cc": "H615",
+    "id": "Rovetta",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Cascina Villarossa",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "San Martino de' Calvi",
+    "p": ""
+  },
+  {
+    "cc": "H586",
+    "id": "Rota Dentro",
+    "p": "BG"
+  },
+  {
+    "cc": "E657",
+    "id": "Lomaniga",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Cascina Mercugnano",
+    "p": ""
+  },
+  {
+    "cc": "H597",
+    "id": "Rovate",
+    "p": "VA"
+  },
+  {
+    "cc": "B122",
+    "id": "Branduzzo",
+    "p": "PV"
+  },
+  {
+    "cc": "M156",
+    "id": "Zelbio",
+    "p": "CO"
+  },
+  {
+    "cc": "D143",
+    "id": "Cremella",
+    "p": "LC"
+  },
+  {
+    "cc": "",
+    "id": "Bondione (BG)",
+    "p": ""
+  },
+  {
+    "cc": "A543",
+    "id": "Bagaggera",
+    "p": "CO"
+  },
+  {
+    "cc": "I446",
+    "id": "Sartirana Briantea",
+    "p": "CO"
+  },
+  {
+    "cc": "C009",
+    "id": "Cassina Amata",
+    "p": "MI"
+  },
+  {
+    "cc": "C131",
+    "id": "Castel Lambro",
+    "p": "PV"
+  },
+  {
+    "cc": "C810",
+    "id": "Cocquio-Trevisago",
+    "p": "Cocquio-trevisagoVA"
+  },
+  {
+    "cc": "",
+    "id": "Gerrechiozzo",
+    "p": ""
+  },
+  {
+    "cc": "G440",
+    "id": "Penzano",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Casanova d'Offredi",
+    "p": ""
+  },
+  {
+    "cc": "F954",
+    "id": "Novate Brianza",
+    "p": "CO"
+  },
+  {
+    "cc": "C157",
+    "id": "Castelletto di Branduzzo",
+    "p": "CastellettoDiBranduzzoPV"
+  },
+  {
+    "cc": "L871",
+    "id": "Vigentino",
+    "p": "MI"
+  },
+  {
+    "cc": "L541",
+    "id": "Vairano Cremasco",
+    "p": "CR"
+  },
+  {
+    "cc": "",
+    "id": "Ronchetto sul Naviglio",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Grumello de' Zanchi",
+    "p": ""
+  },
+  {
+    "cc": "C399",
+    "id": "Caviaga",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Virgilio (Italia)",
+    "p": ""
+  },
+  {
+    "cc": "F941",
+    "id": "Ponte Nossa",
+    "p": "BG"
+  },
+  {
+    "cc": "L701",
+    "id": "Veccana",
+    "p": "VA"
+  },
+  {
+    "cc": "F072",
+    "id": "Mazzunno",
+    "p": "BS"
+  },
+  {
+    "cc": "B478",
+    "id": "Camignone",
+    "p": "BS"
+  },
+  {
+    "cc": "B139",
+    "id": "Brembate di Sotto",
+    "p": "BrembateDiSottoBG"
+  },
+  {
+    "cc": "H093",
+    "id": "Puria",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Rivoltella di Rosasco",
+    "p": ""
+  },
+  {
+    "cc": "I792",
+    "id": "Solbiate",
+    "p": "CO"
+  },
+  {
+    "cc": "I525",
+    "id": "Schianno",
+    "p": "VA"
+  },
+  {
+    "cc": "A800",
+    "id": "Bernaga",
+    "p": "CO"
+  },
+  {
+    "cc": "B334",
+    "id": "Cadero con Graglio",
+    "p": "CaderoConGraglioVA"
+  },
+  {
+    "cc": "",
+    "id": "Cascina Campolungo",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Dosso de' Frati",
+    "p": ""
+  },
+  {
+    "cc": "I358",
+    "id": "Santo Stefano del Monte degli Angeli",
+    "p": "SantoStefanoDelMonteDegliAngeliBG"
+  },
+  {
+    "cc": "",
+    "id": "Ca de' Mazzi",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Corteolona e Genzone",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Piazza Santo Stefano (Cernobbio)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "San Bernardino (Crema)",
+    "p": ""
+  },
+  {
+    "cc": "H965",
+    "id": "San Lorenzo Guazzone",
+    "p": "CR"
+  },
+  {
+    "cc": "C180",
+    "id": "Castello sopra Lecco",
+    "p": "CastelloSopraLeccoCO"
+  },
+  {
+    "cc": "L962",
+    "id": "Villalunga",
+    "p": "PV"
+  },
+  {
+    "cc": "I918",
+    "id": "Spirago",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "Torba (Gornate Olona)",
+    "p": ""
+  },
+  {
+    "cc": "G983",
+    "id": "Prandaglio",
+    "p": "BS"
+  },
+  {
+    "cc": "E353",
+    "id": "Isola di Fondra",
+    "p": "IsolaDiFondraBG"
+  },
+  {
+    "cc": "",
+    "id": "C\u00e0 de' Caggi",
+    "p": ""
+  },
+  {
+    "cc": "L080",
+    "id": "Tavordo",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Quarto Oggiaro",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Vighizzolo (Cappella de' Picenardi)",
+    "p": ""
+  },
+  {
+    "cc": "I227",
+    "id": "Santa Margherita di Bobbio",
+    "p": "SantaMargheritaDiBobbioPV"
+  },
+  {
+    "cc": "D240",
+    "id": "Cuvirone",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Montanara (CR)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Pezzolo de' Codazzi",
+    "p": ""
+  },
+  {
+    "cc": "B191",
+    "id": "Brissago-Valtravaglia",
+    "p": "Brissago-valtravagliaVA"
+  },
+  {
+    "cc": "G057",
+    "id": "Oltrona al Lago",
+    "p": "OltronaAlLagoVA"
+  },
+  {
+    "cc": "G321",
+    "id": "Papiago",
+    "p": "PV"
+  },
+  {
+    "cc": "A356",
+    "id": "Arbizzo",
+    "p": "VA"
+  },
+  {
+    "cc": "F940",
+    "id": "Nosedo",
+    "p": "MI"
+  },
+  {
+    "cc": "D353",
+    "id": "Dosso Baroardo",
+    "p": "CR"
+  },
+  {
+    "cc": "G345",
+    "id": "Parravicino",
+    "p": "CO"
+  },
+  {
+    "cc": "C374",
+    "id": "Cavallasca",
+    "p": "CO"
+  },
+  {
+    "cc": "F129",
+    "id": "Menzago",
+    "p": "VA"
+  },
+  {
+    "cc": "D743",
+    "id": "Fossarmato",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "Casone (Marcallo con Casone)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Cal\u00f2 (Besana in Brianza)",
+    "p": ""
+  },
+  {
+    "cc": "E575",
+    "id": "Licengo",
+    "p": "CR"
+  },
+  {
+    "cc": "F663",
+    "id": "Monteviasco",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Sant'Albano di Bobbio",
+    "p": ""
+  },
+  {
+    "cc": "C643",
+    "id": "Chiosi di Porta d'Adda",
+    "p": "ChiosiDiPortaD'addaMI"
+  },
+  {
+    "cc": "",
+    "id": "Persico (CR)",
+    "p": ""
+  },
+  {
+    "cc": "L852",
+    "id": "Vidardo",
+    "p": "MI"
+  },
+  {
+    "cc": "L768",
+    "id": "Vermezzo",
+    "p": "MI"
+  },
+  {
+    "cc": "G928",
+    "id": "Porzano",
+    "p": "BS"
+  },
+  {
+    "cc": "",
+    "id": "Pezzolo (Vilminore di Scalve)",
+    "p": ""
+  },
+  {
+    "cc": "M155",
+    "id": "Zelata",
+    "p": "PV"
+  },
+  {
+    "cc": "I235",
+    "id": "Santa Maria della Croce",
+    "p": "SantaMariaDellaCroceCR"
+  },
+  {
+    "cc": "G527",
+    "id": "Peveranza",
+    "p": "VA"
+  },
+  {
+    "cc": "D155",
+    "id": "Crescenzago",
+    "p": "MI"
+  },
+  {
+    "cc": "M191",
+    "id": "Zorlesco",
+    "p": "MI"
+  },
+  {
+    "cc": "I395",
+    "id": "San Vito e Modesto",
+    "p": "SanVitoEModestoCR"
+  },
+  {
+    "cc": "D215",
+    "id": "Curdomo",
+    "p": "BG"
+  },
+  {
+    "cc": "F875",
+    "id": "Nese",
+    "p": "BG"
+  },
+  {
+    "cc": "E101",
+    "id": "Gorla Maggiore",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Carella",
+    "p": ""
+  },
+  {
+    "cc": "M005",
+    "id": "Villareggio",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "Burago (Muscoline)",
+    "p": ""
+  },
+  {
+    "cc": "A510",
+    "id": "Avenone",
+    "p": "BS"
+  },
+  {
+    "cc": "L249",
+    "id": "Torre Beretti",
+    "p": "PV"
+  },
+  {
+    "cc": "C646",
+    "id": "Chiosi Uniti con Bottedo",
+    "p": "ChiosiUnitiConBottedoMI"
+  },
+  {
+    "cc": "B050",
+    "id": "Bornago",
+    "p": "MI"
+  },
+  {
+    "cc": "M393",
+    "id": "Castelgerundo",
+    "p": "LO"
+  },
+  {
+    "cc": "H144",
+    "id": "Quistro",
+    "p": "CR"
+  },
+  {
+    "cc": "E123",
+    "id": "Gradella",
+    "p": "CR"
+  },
+  {
+    "cc": "L312",
+    "id": "Toscolano Maderno",
+    "p": "BS"
+  },
+  {
+    "cc": "H112",
+    "id": "Quartiano",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Alta Valle Intelvi",
+    "p": ""
+  },
+  {
+    "cc": "E950",
+    "id": "Mariano al Brembo",
+    "p": "MarianoAlBremboBG"
+  },
+  {
+    "cc": "G908",
+    "id": "Porto d'Adda",
+    "p": "PortoD'addaMI"
+  },
+  {
+    "cc": "M395",
+    "id": "Valvarrone",
+    "p": "LC"
+  },
+  {
+    "cc": "F897",
+    "id": "Niguarda",
+    "p": "MI"
+  },
+  {
+    "cc": "",
+    "id": "Cornale e Bastida",
+    "p": ""
+  },
+  {
+    "cc": "D359",
+    "id": "Dozio",
+    "p": "CO"
+  },
+  {
+    "cc": "C692",
+    "id": "Cimbergo-Paspardo",
+    "p": "Cimbergo-paspardoBS"
+  },
+  {
+    "cc": "E105",
+    "id": "Gornate Superiore",
+    "p": "VA"
+  },
+  {
+    "cc": "F778",
+    "id": "Motta San Damiano",
+    "p": "PV"
+  },
+  {
+    "cc": "I050",
+    "id": "San Nazzaro Mella",
+    "p": "BS"
+  },
+  {
+    "cc": "C754",
+    "id": "Civenna",
+    "p": "CO"
+  },
+  {
+    "cc": "C434",
+    "id": "Cella di Bobbio",
+    "p": "CellaDiBobbioPV"
+  },
+  {
+    "cc": "C909",
+    "id": "Colzano",
+    "p": "MI"
+  },
+  {
+    "cc": "I397",
+    "id": "San Vito e Marta",
+    "p": "SanVitoEMartaMI"
+  },
+  {
+    "cc": "H960",
+    "id": "San Lorenzo Aroldo",
+    "p": "CR"
+  },
+  {
+    "cc": "G094",
+    "id": "Orezzo",
+    "p": "BG"
+  },
+  {
+    "cc": "E529",
+    "id": "Osmate",
+    "p": "VA"
+  },
+  {
+    "cc": "",
+    "id": "Virle Treponti",
+    "p": ""
+  },
+  {
+    "cc": "H759",
+    "id": "San Bartolomeo",
+    "p": "BS"
+  },
+  {
+    "cc": "M097",
+    "id": "Vivente",
+    "p": "PV"
+  },
+  {
+    "cc": "F179",
+    "id": "Mezzano Passone",
+    "p": "MI"
+  },
+  {
+    "cc": "G851",
+    "id": "Ponte Nizza",
+    "p": "PV"
+  },
+  {
+    "cc": "G027",
+    "id": "Olgiate Calco",
+    "p": "CO"
+  },
+  {
+    "cc": "C019",
+    "id": "Cassina Pobbia",
+    "p": "MI"
+  },
+  {
+    "cc": "E077",
+    "id": "Goido",
+    "p": "PV"
+  },
+  {
+    "cc": "L542",
+    "id": "Vairano Pavese",
+    "p": "PV"
+  },
+  {
+    "cc": "F673",
+    "id": "Monticelli Ripa d'Oglio",
+    "p": "MonticelliRipaD'oglioCR"
+  },
+  {
+    "cc": "C966",
+    "id": "Consonno",
+    "p": "CO"
+  },
+  {
+    "cc": "M128",
+    "id": "Voltorre",
+    "p": "VA"
+  },
+  {
+    "cc": "E561",
+    "id": "Levata",
+    "p": "CR"
+  },
+  {
+    "cc": "I106",
+    "id": "San Pietro d'Orzio",
+    "p": "SanPietroD'orzioBG"
+  },
+  {
+    "cc": "H260",
+    "id": "Rezzonico",
+    "p": "CO"
+  },
+  {
+    "cc": "F180",
+    "id": "Mezzano Siccomario",
+    "p": "PV"
+  },
+  {
+    "cc": "D439",
+    "id": "Esmate",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Maderno (Toscolano-Maderno)",
+    "p": ""
+  },
+  {
+    "cc": "B970",
+    "id": "Casirago",
+    "p": "CO"
+  },
+  {
+    "cc": "L731",
+    "id": "Vendrogno",
+    "p": "LC"
+  },
+  {
+    "cc": "C981",
+    "id": "Copreno",
+    "p": "MI"
+  },
+  {
+    "cc": "I413",
+    "id": "San Zeno e Foppa",
+    "p": "SanZenoEFoppaPV"
+  },
+  {
+    "cc": "L649",
+    "id": "Valsecca",
+    "p": "BG"
+  },
+  {
+    "cc": "",
+    "id": "Alone (Casto)",
+    "p": ""
+  },
+  {
+    "cc": "B764",
+    "id": "Careno",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "Santa Maria del Monte (Varese)",
+    "p": ""
+  },
+  {
+    "cc": "F782",
+    "id": "Motta Vigana",
+    "p": "MI"
+  },
+  {
+    "cc": "L674",
+    "id": "Vararo",
+    "p": "VA"
+  },
+  {
+    "cc": "G617",
+    "id": "Pietra Gavina",
+    "p": "PV"
+  },
+  {
+    "cc": "",
+    "id": "Capolago (Varese)",
+    "p": ""
+  },
+  {
+    "cc": "",
+    "id": "Carcano (Albavilla)",
+    "p": ""
+  },
+  {
+    "cc": "C016",
+    "id": "Cassina Mariaga",
+    "p": "CO"
+  },
+  {
+    "cc": "",
+    "id": "San Salvatore (CR)",
+    "p": ""
+  },
+  {
+    "cc": "M045",
+    "id": "Villongo",
+    "p": "BG"
+  },
+  {
+    "cc": "D533",
+    "id": "Fengo",
+    "p": "CR"
+  },
+  {
+    "cc": "F959",
+    "id": "Novegro",
+    "p": "MI"
+  },
+  {
+    "cc": "E308",
+    "id": "Introzzo",
+    "p": "LC"
+  },
+  {
+    "cc": "C239",
+    "id": "Castelnuovo Gherardi",
+    "p": "CR"
+  },
+  {
+    "cc": "C010",
+    "id": "Cassina Baraggia",
+    "p": "MI"
+  },
+  {
+    "cc": "H663",
+    "id": "Sagliano di Crenna",
+    "p": "SaglianoDiCrennaPV"
+  }
+]
