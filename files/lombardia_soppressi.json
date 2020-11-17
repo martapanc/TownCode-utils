@@ -815,9 +815,9 @@
     "p": ""
   },
   {
-    "cc": "",
-    "id": "Molina (Faggeto Lario)",
-    "p": ""
+    "cc": "F285",
+    "id": "Molina",
+    "p": "CO"
   },
   {
     "cc": "C333",
@@ -855,9 +855,9 @@
     "p": "PV"
   },
   {
-    "cc": "",
-    "id": "Borgoforte (Borgo Virgilio)",
-    "p": ""
+    "cc": "B011",
+    "id": "Borgoforte",
+    "p": "MN"
   },
   {
     "cc": "F742",
@@ -865,24 +865,19 @@
     "p": "VA"
   },
   {
-    "cc": "",
-    "id": "C\u00e0 d'Andrea",
-    "p": ""
+    "cc": "B320",
+    "id": "Ca' d'Andrea",
+    "p": "CR"
   },
   {
-    "cc": "",
-    "id": "Calino (Cazzago San Martino)",
-    "p": ""
+    "cc": "B414",
+    "id": "Calino",
+    "p": "BS"
   },
   {
     "cc": "D950",
     "id": "Gazzada",
     "p": "VA"
-  },
-  {
-    "cc": "",
-    "id": "1960",
-    "p": ""
   },
   {
     "cc": "C031",
@@ -905,19 +900,19 @@
     "p": "MI"
   },
   {
-    "cc": "",
-    "id": "Montebolognola",
-    "p": ""
+    "cc": "Montebolognola",
+    "id": "Monte Bolognola",
+    "p": "PV"
   },
   {
-    "cc": "",
-    "id": "Vho (Piadena Drizzona)",
-    "p": ""
+    "cc": "L825",
+    "id": "Vho",
+    "p": "CR"
   },
   {
     "cc": "D283",
     "id": "Desenzano al Serio",
-    "p": "DesenzanoAlSerioBG"
+    "p": "BG"
   },
   {
     "cc": "E231",
@@ -935,14 +930,14 @@
     "p": "BS"
   },
   {
-    "cc": "",
+    "cc": "D416",
     "id": "Erba-Incino",
-    "p": ""
+    "p": "CO"
   },
   {
-    "cc": "",
+    "cc": "G244",
     "id": "Paina-Brugazzo",
-    "p": ""
+    "p": "MI"
   },
   {
     "cc": "C473",
@@ -955,9 +950,9 @@
     "p": "BS"
   },
   {
-    "cc": "",
-    "id": "C\u00e0 de' Quinzani",
-    "p": ""
+    "cc": "B333",
+    "id": "Cà de' Quinzani",
+    "p": "CR"
   },
   {
     "cc": "E190",
@@ -965,9 +960,9 @@
     "p": "CO"
   },
   {
-    "cc": "",
+    "cc": "B341",
     "id": "Ca de' Zecchi",
-    "p": ""
+    "p": "MI"
   },
   {
     "cc": "L901",
@@ -975,9 +970,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "D199",
     "id": "Cugliate",
-    "p": ""
+    "p": "VA"
   },
   {
     "cc": "C475",
@@ -985,29 +980,24 @@
     "p": "BG"
   },
   {
-    "cc": "",
-    "id": "1927",
-    "p": ""
-  },
-  {
     "cc": "C924",
     "id": "Comezzano",
     "p": "BS"
   },
   {
-    "cc": "",
-    "id": "San Savino(CR)",
-    "p": ""
+    "cc": "F628",
+    "id": "San Savino",
+    "p": "CR"
   },
   {
-    "cc": "",
+    "cc": "I194",
     "id": "Sant'Agata Martesana",
-    "p": ""
+    "p": "MI"
   },
   {
     "cc": "I067",
     "id": "San Pancrazio al Colle",
-    "p": "SanPancrazioAlColleVA"
+    "p": "VA"
   },
   {
     "cc": "C402",
@@ -1062,7 +1052,7 @@
   {
     "cc": "C233",
     "id": "Castelnuovo del Vescovo",
-    "p": "CastelnuovoDelVescovoCR"
+    "p": "CR"
   },
   {
     "cc": "D369",
@@ -1085,24 +1075,24 @@
     "p": "BS"
   },
   {
-    "cc": "",
+    "cc": "E738",
     "id": "Lumezzane Sant'Apollonio",
-    "p": ""
+    "p": "BS"
   },
   {
     "cc": "B811",
     "id": "Carpaneta con Dosimo",
-    "p": "CarpanetaConDosimoCR"
+    "p": "CR"
   },
   {
     "cc": "H526",
     "id": "Roncadello d'Adda",
-    "p": "RoncadelloD'addaCR"
+    "p": "CR"
   },
   {
     "cc": "H864",
     "id": "San Gervasio d'Adda",
-    "p": "SanGervasioD'addaBG"
+    "p": "BG"
   },
   {
     "cc": "L495",
@@ -1117,7 +1107,7 @@
   {
     "cc": "H351",
     "id": "Riviera d'Adda",
-    "p": "RivieraD'addaBG"
+    "p": "BG"
   },
   {
     "cc": "G413",
@@ -1175,9 +1165,9 @@
     "p": "CO"
   },
   {
-    "cc": "",
+    "cc": "M333",
     "id": "Sant'Omobono Terme",
-    "p": ""
+    "p": "BG"
   },
   {
     "cc": "A469",
@@ -1187,7 +1177,7 @@
   {
     "cc": "G531",
     "id": "Pezzolo di Tavazzano",
-    "p": "PezzoloDiTavazzanoMI"
+    "p": "MI"
   },
   {
     "cc": "E598",
@@ -1217,7 +1207,7 @@
   {
     "cc": "B699",
     "id": "Capriano di Brianza",
-    "p": "CaprianoDiBrianzaMI"
+    "p": "MI"
   },
   {
     "cc": "B222",
@@ -1257,7 +1247,7 @@
   {
     "cc": "E444",
     "id": "Lanzo d'Intelvi",
-    "p": "LanzoD'intelviCO"
+    "p": "CO"
   },
   {
     "cc": "A642",
@@ -1267,7 +1257,7 @@
   {
     "cc": "C234",
     "id": "Castelnuovo del Zappa",
-    "p": "CastelnuovoDelZappaCR"
+    "p": "CR"
   },
   {
     "cc": "L289",
@@ -1287,7 +1277,7 @@
   {
     "cc": "H584",
     "id": "Rota d'Imagna",
-    "p": "RotaD'imagnaBG"
+    "p": "BG"
   },
   {
     "cc": "A943",
@@ -1337,7 +1327,7 @@
   {
     "cc": "H832",
     "id": "San Felice di Scovolo",
-    "p": "SanFeliceDiScovoloBS"
+    "p": "BS"
   },
   {
     "cc": "C535",
@@ -1462,7 +1452,7 @@
   {
     "cc": "H884",
     "id": "San Giorgio su Legnano",
-    "p": "SanGiorgioSuLegnanoMI"
+    "p": "MI"
   },
   {
     "cc": "",
@@ -1487,7 +1477,7 @@
   {
     "cc": "C965",
     "id": "Consiglio di Rumo",
-    "p": "ConsiglioDiRumoCO"
+    "p": "CO"
   },
   {
     "cc": "B623",
@@ -1506,7 +1496,7 @@
   },
   {
     "cc": "",
-    "id": "Birago (Lentate sul Seveso)",
+    "id": "Birago",
     "p": ""
   },
   {
@@ -1521,7 +1511,7 @@
   },
   {
     "cc": "",
-    "id": "Pieve San Maurizio (Torre de' Picenardi)",
+    "id": "Pieve San Maurizio",
     "p": ""
   },
   {
@@ -1557,7 +1547,7 @@
   {
     "cc": "L260",
     "id": "Torre del Mangano",
-    "p": "TorreDelManganoPV"
+    "p": "PV"
   },
   {
     "cc": "C832",
@@ -1576,12 +1566,12 @@
   },
   {
     "cc": "",
-    "id": "Casatico (Giussago)",
+    "id": "Casatico",
     "p": ""
   },
   {
     "cc": "",
-    "id": "Baggio (Milano)",
+    "id": "Baggio",
     "p": ""
   },
   {
@@ -1592,7 +1582,7 @@
   {
     "cc": "I009",
     "id": "San Martino in Beliseto",
-    "p": "SanMartinoInBelisetoCR"
+    "p": "CR"
   },
   {
     "cc": "A620",
@@ -1631,7 +1621,7 @@
   },
   {
     "cc": "",
-    "id": "Nava (Colle Brianza)",
+    "id": "Nava",
     "p": ""
   },
   {
@@ -1702,7 +1692,7 @@
   {
     "cc": "H680",
     "id": "Sala al Barro",
-    "p": "SalaAlBarroCO"
+    "p": "CO"
   },
   {
     "cc": "L862",
@@ -1716,7 +1706,7 @@
   },
   {
     "cc": "",
-    "id": "Contra (Missaglia)",
+    "id": "Contra",
     "p": ""
   },
   {
@@ -1781,7 +1771,7 @@
   },
   {
     "cc": "",
-    "id": "C\u00e0 de' Tedioli",
+    "id": "Cà de' Tedioli",
     "p": ""
   },
   {
@@ -1857,7 +1847,7 @@
   {
     "cc": "F345",
     "id": "Moncucco di Monza",
-    "p": "MoncuccoDiMonzaMI"
+    "p": "MI"
   },
   {
     "cc": "",
@@ -1921,7 +1911,7 @@
   },
   {
     "cc": "",
-    "id": "Traversa (Gravedona)",
+    "id": "Traversa",
     "p": ""
   },
   {
@@ -1946,7 +1936,7 @@
   },
   {
     "cc": "",
-    "id": "Barzizza (Gandino)",
+    "id": "Barzizza",
     "p": ""
   },
   {
@@ -1966,7 +1956,7 @@
   },
   {
     "cc": "",
-    "id": "Rubbiano (Credera Rubbiano)",
+    "id": "Rubbiano",
     "p": ""
   },
   {
@@ -2001,7 +1991,7 @@
   },
   {
     "cc": "",
-    "id": "Nozza (Vestone)",
+    "id": "Nozza",
     "p": ""
   },
   {
@@ -2027,7 +2017,7 @@
   {
     "cc": "H840",
     "id": "San Fermo della Battaglia",
-    "p": "SanFermoDellaBattagliaCO"
+    "p": "CO"
   },
   {
     "cc": "B495",
@@ -2212,7 +2202,7 @@
   {
     "cc": "C642",
     "id": "Chiosi d'Adda Vigadore",
-    "p": "ChiosiD'addaVigadoreMI"
+    "p": "MI"
   },
   {
     "cc": "",
@@ -2297,7 +2287,7 @@
   {
     "cc": "B975",
     "id": "Caslino al Piano",
-    "p": "CaslinoAlPianoCO"
+    "p": "CO"
   },
   {
     "cc": "C451",
@@ -2317,7 +2307,7 @@
   {
     "cc": "C798",
     "id": "Clusane sul Lago",
-    "p": "ClusaneSulLagoBS"
+    "p": "BS"
   },
   {
     "cc": "F314",
@@ -2362,12 +2352,12 @@
   {
     "cc": "F289",
     "id": "Molini di Colognola",
-    "p": "MoliniDiColognolaBG"
+    "p": "BG"
   },
   {
     "cc": "A002",
     "id": "Abbadia sopra Adda",
-    "p": "AbbadiaSopraAddaCO"
+    "p": "CO"
   },
   {
     "cc": "",
@@ -2377,7 +2367,7 @@
   {
     "cc": "H813",
     "id": "San Damiano di Monza",
-    "p": "SanDamianoDiMonzaMI"
+    "p": "MI"
   },
   {
     "cc": "",
@@ -2412,7 +2402,7 @@
   {
     "cc": "C328",
     "id": "Castiraga da Reggio",
-    "p": "CastiragaDaReggioMI"
+    "p": "MI"
   },
   {
     "cc": "A830",
@@ -2597,7 +2587,7 @@
   {
     "cc": "H477",
     "id": "Rodengo-Saiano",
-    "p": "Rodengo-saianoBS"
+    "p": "BS"
   },
   {
     "cc": "G475",
@@ -2827,7 +2817,7 @@
   {
     "cc": "E601",
     "id": "Linate al Lambro",
-    "p": "LinateAlLambroMI"
+    "p": "MI"
   },
   {
     "cc": "L370",
@@ -2847,7 +2837,7 @@
   {
     "cc": "B113",
     "id": "Bracca di Costa Serina",
-    "p": "BraccaDiCostaSerinaBG"
+    "p": "BG"
   },
   {
     "cc": "D140",
@@ -2862,7 +2852,7 @@
   {
     "cc": "D816",
     "id": "Fuipiano al Brembo",
-    "p": "FuipianoAlBremboBG"
+    "p": "BG"
   },
   {
     "cc": "H636",
@@ -2887,7 +2877,7 @@
   {
     "cc": "D466",
     "id": "Fagnano sul Naviglio",
-    "p": "FagnanoSulNaviglioMI"
+    "p": "MI"
   },
   {
     "cc": "",
@@ -2902,7 +2892,7 @@
   {
     "cc": "A775",
     "id": "Belvedere al Po",
-    "p": "BelvedereAlPoPV"
+    "p": "PV"
   },
   {
     "cc": "E631",
@@ -2942,7 +2932,7 @@
   {
     "cc": "I245",
     "id": "Santa Maria in Prato",
-    "p": "SantaMariaInPratoMI"
+    "p": "MI"
   },
   {
     "cc": "D991",
@@ -2952,7 +2942,7 @@
   {
     "cc": "C586",
     "id": "Ceto-Cerveno",
-    "p": "Ceto-cervenoBS"
+    "p": "BS"
   },
   {
     "cc": "",
@@ -3047,7 +3037,7 @@
   {
     "cc": "H883",
     "id": "San Giorgio di Mantova",
-    "p": "SanGiorgioDiMantovaMN"
+    "p": "MN"
   },
   {
     "cc": "A745",
@@ -3077,7 +3067,7 @@
   {
     "cc": "D036",
     "id": "Corpi Santi di Pavia",
-    "p": "CorpiSantiDiPaviaPV"
+    "p": "PV"
   },
   {
     "cc": "E362",
@@ -3087,7 +3077,7 @@
   {
     "cc": "I913",
     "id": "Spino al Brembo",
-    "p": "SpinoAlBremboBG"
+    "p": "BG"
   },
   {
     "cc": "H055",
@@ -3127,7 +3117,7 @@
   {
     "cc": "I916",
     "id": "Spinone al Lago",
-    "p": "SpinoneAlLagoBG"
+    "p": "BG"
   },
   {
     "cc": "H032",
@@ -3212,7 +3202,7 @@
   {
     "cc": "L938",
     "id": "Villa d'Ogna",
-    "p": "VillaD'ognaBG"
+    "p": "BG"
   },
   {
     "cc": "D275",
@@ -3222,12 +3212,12 @@
   {
     "cc": "D034",
     "id": "Corpi Santi di Cremona",
-    "p": "CorpiSantiDiCremonaCR"
+    "p": "CR"
   },
   {
     "cc": "H905",
     "id": "San Giovanni alla Castagna",
-    "p": "SanGiovanniAllaCastagnaCO"
+    "p": "CO"
   },
   {
     "cc": "I127",
@@ -3312,7 +3302,7 @@
   {
     "cc": "G218",
     "id": "Paderno d'Adda",
-    "p": "PadernoD'addaLC"
+    "p": "LC"
   },
   {
     "cc": "B146",
@@ -3332,12 +3322,12 @@
   {
     "cc": "B147",
     "id": "Brenno della Torre",
-    "p": "BrennoDellaTorreCO"
+    "p": "CO"
   },
   {
     "cc": "F237",
     "id": "Mirabello ed Uniti di Pavia",
-    "p": "MirabelloEdUnitiDiPaviaPV"
+    "p": "PV"
   },
   {
     "cc": "G072",
@@ -3352,7 +3342,7 @@
   {
     "cc": "C036",
     "id": "Cassino d'Alberi",
-    "p": "CassinoD'alberiMI"
+    "p": "MI"
   },
   {
     "cc": "B241",
@@ -3442,12 +3432,12 @@
   {
     "cc": "A190",
     "id": "Alfiano ed Uniti",
-    "p": "AlfianoEdUnitiCR"
+    "p": "CR"
   },
   {
     "cc": "B702",
     "id": "Capriate d'Adda",
-    "p": "CapriateD'addaBG"
+    "p": "BG"
   },
   {
     "cc": "",
@@ -3462,7 +3452,7 @@
   {
     "cc": "H172",
     "id": "Rancio di Lecco",
-    "p": "RancioDiLeccoCO"
+    "p": "CO"
   },
   {
     "cc": "L755",
@@ -3517,7 +3507,7 @@
   {
     "cc": "E197",
     "id": "Groppello d'Adda",
-    "p": "GroppelloD'addaMI"
+    "p": "MI"
   },
   {
     "cc": "B728",
@@ -3652,7 +3642,7 @@
   {
     "cc": "B329",
     "id": "Ca dell'Acqua",
-    "p": "CaDell'acquaMI"
+    "p": "MI"
   },
   {
     "cc": "",
@@ -3702,7 +3692,7 @@
   {
     "cc": "E220",
     "id": "Grumello del Piano",
-    "p": "GrumelloDelPianoBG"
+    "p": "BG"
   },
   {
     "cc": "F234",
@@ -3762,7 +3752,7 @@
   {
     "cc": "B622",
     "id": "Canova del Morbasco",
-    "p": "CanovaDelMorbascoCR"
+    "p": "CR"
   },
   {
     "cc": "B973",
@@ -3792,7 +3782,7 @@
   {
     "cc": "C109",
     "id": "Castelfranco d'Oglio",
-    "p": "CastelfrancoD'oglioCR"
+    "p": "CR"
   },
   {
     "cc": "L652",
@@ -3867,7 +3857,7 @@
   {
     "cc": "D580",
     "id": "Figino di Milano",
-    "p": "FiginoDiMilanoMI"
+    "p": "MI"
   },
   {
     "cc": "F008",
@@ -3902,7 +3892,7 @@
   {
     "cc": "A153",
     "id": "Albese con Cassano",
-    "p": "AlbeseConCassanoCO"
+    "p": "CO"
   },
   {
     "cc": "G868",
@@ -3917,7 +3907,7 @@
   {
     "cc": "E386",
     "id": "Jerago con Orago",
-    "p": "JeragoConOragoVA"
+    "p": "VA"
   },
   {
     "cc": "L754",
@@ -3947,11 +3937,11 @@
   {
     "cc": "M175",
     "id": "Zibido al Lambro",
-    "p": "ZibidoAlLambroPV"
+    "p": "PV"
   },
   {
     "cc": "",
-    "id": "Padernello (Borgo San Giacomo)",
+    "id": "Padernello",
     "p": ""
   },
   {
@@ -3962,7 +3952,7 @@
   {
     "cc": "B013",
     "id": "Borgofranco sul Po",
-    "p": "BorgofrancoSulPoMN"
+    "p": "MN"
   },
   {
     "cc": "C001",
@@ -3977,7 +3967,7 @@
   {
     "cc": "G633",
     "id": "Pieve di Coriano",
-    "p": "PieveDiCorianoMN"
+    "p": "MN"
   },
   {
     "cc": "I818",
@@ -4047,7 +4037,7 @@
   {
     "cc": "H397",
     "id": "Rocca del Colle",
-    "p": "RoccaDelColleBG"
+    "p": "BG"
   },
   {
     "cc": "",
@@ -4157,7 +4147,7 @@
   {
     "cc": "C810",
     "id": "Cocquio-Trevisago",
-    "p": "Cocquio-trevisagoVA"
+    "p": "VA"
   },
   {
     "cc": "",
@@ -4182,7 +4172,7 @@
   {
     "cc": "C157",
     "id": "Castelletto di Branduzzo",
-    "p": "CastellettoDiBranduzzoPV"
+    "p": "PV"
   },
   {
     "cc": "L871",
@@ -4237,7 +4227,7 @@
   {
     "cc": "B139",
     "id": "Brembate di Sotto",
-    "p": "BrembateDiSottoBG"
+    "p": "BG"
   },
   {
     "cc": "H093",
@@ -4267,7 +4257,7 @@
   {
     "cc": "B334",
     "id": "Cadero con Graglio",
-    "p": "CaderoConGraglioVA"
+    "p": "VA"
   },
   {
     "cc": "",
@@ -4282,7 +4272,7 @@
   {
     "cc": "I358",
     "id": "Santo Stefano del Monte degli Angeli",
-    "p": "SantoStefanoDelMonteDegliAngeliBG"
+    "p": "BG"
   },
   {
     "cc": "",
@@ -4296,12 +4286,12 @@
   },
   {
     "cc": "",
-    "id": "Piazza Santo Stefano (Cernobbio)",
+    "id": "Piazza Santo Stefano",
     "p": ""
   },
   {
     "cc": "",
-    "id": "San Bernardino (Crema)",
+    "id": "San Bernardino",
     "p": ""
   },
   {
@@ -4312,7 +4302,7 @@
   {
     "cc": "C180",
     "id": "Castello sopra Lecco",
-    "p": "CastelloSopraLeccoCO"
+    "p": "CO"
   },
   {
     "cc": "L962",
@@ -4337,7 +4327,7 @@
   {
     "cc": "E353",
     "id": "Isola di Fondra",
-    "p": "IsolaDiFondraBG"
+    "p": "BG"
   },
   {
     "cc": "",
@@ -4356,13 +4346,13 @@
   },
   {
     "cc": "",
-    "id": "Vighizzolo (Cappella de' Picenardi)",
+    "id": "Vighizzolo",
     "p": ""
   },
   {
     "cc": "I227",
     "id": "Santa Margherita di Bobbio",
-    "p": "SantaMargheritaDiBobbioPV"
+    "p": "PV"
   },
   {
     "cc": "D240",
@@ -4382,12 +4372,12 @@
   {
     "cc": "B191",
     "id": "Brissago-Valtravaglia",
-    "p": "Brissago-valtravagliaVA"
+    "p": "VA"
   },
   {
     "cc": "G057",
     "id": "Oltrona al Lago",
-    "p": "OltronaAlLagoVA"
+    "p": "VA"
   },
   {
     "cc": "G321",
@@ -4431,7 +4421,7 @@
   },
   {
     "cc": "",
-    "id": "Casone (Marcallo con Casone)",
+    "id": "Casone",
     "p": ""
   },
   {
@@ -4457,7 +4447,7 @@
   {
     "cc": "C643",
     "id": "Chiosi di Porta d'Adda",
-    "p": "ChiosiDiPortaD'addaMI"
+    "p": "MI"
   },
   {
     "cc": "",
@@ -4492,7 +4482,7 @@
   {
     "cc": "I235",
     "id": "Santa Maria della Croce",
-    "p": "SantaMariaDellaCroceCR"
+    "p": "CR"
   },
   {
     "cc": "G527",
@@ -4512,7 +4502,7 @@
   {
     "cc": "I395",
     "id": "San Vito e Modesto",
-    "p": "SanVitoEModestoCR"
+    "p": "CR"
   },
   {
     "cc": "D215",
@@ -4557,7 +4547,7 @@
   {
     "cc": "C646",
     "id": "Chiosi Uniti con Bottedo",
-    "p": "ChiosiUnitiConBottedoMI"
+    "p": "MI"
   },
   {
     "cc": "B050",
@@ -4597,12 +4587,12 @@
   {
     "cc": "E950",
     "id": "Mariano al Brembo",
-    "p": "MarianoAlBremboBG"
+    "p": "BG"
   },
   {
     "cc": "G908",
     "id": "Porto d'Adda",
-    "p": "PortoD'addaMI"
+    "p": "MI"
   },
   {
     "cc": "M395",
@@ -4627,7 +4617,7 @@
   {
     "cc": "C692",
     "id": "Cimbergo-Paspardo",
-    "p": "Cimbergo-paspardoBS"
+    "p": "BS"
   },
   {
     "cc": "E105",
@@ -4652,7 +4642,7 @@
   {
     "cc": "C434",
     "id": "Cella di Bobbio",
-    "p": "CellaDiBobbioPV"
+    "p": "PV"
   },
   {
     "cc": "C909",
@@ -4662,7 +4652,7 @@
   {
     "cc": "I397",
     "id": "San Vito e Marta",
-    "p": "SanVitoEMartaMI"
+    "p": "MI"
   },
   {
     "cc": "H960",
@@ -4727,7 +4717,7 @@
   {
     "cc": "F673",
     "id": "Monticelli Ripa d'Oglio",
-    "p": "MonticelliRipaD'oglioCR"
+    "p": "CR"
   },
   {
     "cc": "C966",
@@ -4747,7 +4737,7 @@
   {
     "cc": "I106",
     "id": "San Pietro d'Orzio",
-    "p": "SanPietroD'orzioBG"
+    "p": "BG"
   },
   {
     "cc": "H260",
@@ -4766,7 +4756,7 @@
   },
   {
     "cc": "",
-    "id": "Maderno (Toscolano-Maderno)",
+    "id": "Maderno",
     "p": ""
   },
   {
@@ -4787,7 +4777,7 @@
   {
     "cc": "I413",
     "id": "San Zeno e Foppa",
-    "p": "SanZenoEFoppaPV"
+    "p": "PV"
   },
   {
     "cc": "L649",
@@ -4806,7 +4796,7 @@
   },
   {
     "cc": "",
-    "id": "Santa Maria del Monte (Varese)",
+    "id": "Santa Maria del Monte",
     "p": ""
   },
   {
@@ -4826,12 +4816,12 @@
   },
   {
     "cc": "",
-    "id": "Capolago (Varese)",
+    "id": "Capolago",
     "p": ""
   },
   {
     "cc": "",
-    "id": "Carcano (Albavilla)",
+    "id": "Carcano",
     "p": ""
   },
   {
@@ -4877,6 +4867,6 @@
   {
     "cc": "H663",
     "id": "Sagliano di Crenna",
-    "p": "SaglianoDiCrennaPV"
+    "p": "PV"
   }
 ]
