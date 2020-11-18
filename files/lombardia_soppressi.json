@@ -320,9 +320,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "I632",
     "id": "Sermide e Felonica",
-    "p": ""
+    "p": "MN"
   },
   {
     "cc": "E141",
@@ -810,9 +810,9 @@
     "p": "CR"
   },
   {
-    "cc": "",
+    "cc": "I167",
     "id": "Sant'Abbondio",
-    "p": ""
+    "p": "CO"
   },
   {
     "cc": "F285",
@@ -1045,9 +1045,9 @@
     "p": "BS"
   },
   {
-    "cc": "",
+    "cc": "L585",
     "id": "Vall'Alta",
-    "p": ""
+    "p": "BG"
   },
   {
     "cc": "C233",
@@ -1060,9 +1060,9 @@
     "p": "CO"
   },
   {
-    "cc": "",
+    "cc": "B159",
     "id": "Bressana",
-    "p": ""
+    "p": "PV"
   },
   {
     "cc": "M160",
@@ -1300,9 +1300,9 @@
     "p": "VA"
   },
   {
-    "cc": "",
+    "cc": "M419",
     "id": "Colli Verdi",
-    "p": ""
+    "p": "PV"
   },
   {
     "cc": "B325",
@@ -1370,9 +1370,9 @@
     "p": "CR"
   },
   {
-    "cc": "",
+    "cc": "G239",
     "id": "Pagnano Valassina",
-    "p": ""
+    "p": "CO"
   },
   {
     "cc": "G017",
@@ -1400,19 +1400,14 @@
     "p": "SO"
   },
   {
-    "cc": "",
-    "id": "Cascina Mongiardino",
-    "p": ""
-  },
-  {
     "cc": "L318",
     "id": "Trabuchello",
     "p": "BG"
   },
   {
-    "cc": "",
-    "id": "Villa Roman\u00f2",
-    "p": ""
+    "cc": "M010",
+    "id": "Villa Romanò",
+    "p": "CO"
   },
   {
     "cc": "E701",
@@ -1455,9 +1450,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "G536",
     "id": "Piadena Drizzona",
-    "p": ""
+    "p": "CR"
   },
   {
     "cc": "B168",
@@ -1485,9 +1480,9 @@
     "p": "CR"
   },
   {
-    "cc": "",
-    "id": "Gazzo (CR)",
-    "p": ""
+    "cc": "D955",
+    "id": "Gazzo",
+    "p": "CR"
   },
   {
     "cc": "D739",
@@ -1495,9 +1490,9 @@
     "p": "CR"
   },
   {
-    "cc": "",
+    "cc": "A879",
     "id": "Birago",
-    "p": ""
+    "p": "MI"
   },
   {
     "cc": "H595",
@@ -1510,14 +1505,14 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "G652",
     "id": "Pieve San Maurizio",
-    "p": ""
+    "p": "CR"
   },
   {
-    "cc": "",
+    "cc": "F034",
     "id": "Massari Melzi",
-    "p": ""
+    "p": "BG"
   },
   {
     "cc": "G930",
@@ -1525,9 +1520,9 @@
     "p": "BG"
   },
   {
-    "cc": "",
+    "cc": "H524",
     "id": "Ronca de' Golferami",
-    "p": ""
+    "p": "CR"
   },
   {
     "cc": "H370",
@@ -1565,14 +1560,14 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "B944",
     "id": "Casatico",
-    "p": ""
+    "p": "PV"
   },
   {
-    "cc": "",
+    "cc": "A545",
     "id": "Baggio",
-    "p": ""
+    "p": "MI"
   },
   {
     "cc": "G952",
@@ -1600,9 +1595,9 @@
     "p": "PV"
   },
   {
-    "cc": "",
+    "cc": "M334",
     "id": "Val Brembilla",
-    "p": ""
+    "p": "BG"
   },
   {
     "cc": "B407",
@@ -1610,9 +1605,9 @@
     "p": "BG"
   },
   {
-    "cc": "",
+    "cc": "M047",
     "id": "Villongo Sant'Alessandro",
-    "p": ""
+    "p": "BG"
   },
   {
     "cc": "C419",
@@ -1620,9 +1615,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "F850",
     "id": "Nava",
-    "p": ""
+    "p": "CO"
   },
   {
     "cc": "H239",
@@ -1645,9 +1640,9 @@
     "p": "VA"
   },
   {
-    "cc": "",
-    "id": "Tormo (Crespiatica)",
-    "p": ""
+    "cc": "L222",
+    "id": "Tormo",
+    "p": "MI"
   },
   {
     "cc": "L997",
@@ -1655,9 +1650,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "C011",
     "id": "Cassina de' Bracchi",
-    "p": ""
+    "p": "CO"
   },
   {
     "cc": "H487",
@@ -1680,9 +1675,9 @@
     "p": "BS"
   },
   {
-    "cc": "",
-    "id": "Cereda (Perego)",
-    "p": ""
+    "cc": "C499",
+    "id": "Cereda",
+    "p": "CO"
   },
   {
     "cc": "A114",
@@ -1705,14 +1700,14 @@
     "p": "CR"
   },
   {
-    "cc": "",
+    "cc": "C970",
     "id": "Contra",
-    "p": ""
+    "p": "CO"
   },
   {
-    "cc": "",
+    "cc": "B233",
     "id": "Bruzzano",
-    "p": ""
+    "p": "MI"
   },
   {
     "cc": "B140",
@@ -1770,9 +1765,9 @@
     "p": "BS"
   },
   {
-    "cc": "",
+    "cc": "B340",
     "id": "Cà de' Tedioli",
-    "p": ""
+    "p": "PV"
   },
   {
     "cc": "B053",
@@ -1825,9 +1820,9 @@
     "p": "CR"
   },
   {
-    "cc": "",
+    "cc": "M412",
     "id": "Solbiate con Cagno",
-    "p": ""
+    "p": "CO"
   },
   {
     "cc": "G723",
@@ -1840,9 +1835,9 @@
     "p": "CR"
   },
   {
-    "cc": "",
-    "id": "Runo (Dumenza)",
-    "p": ""
+    "cc": "H640",
+    "id": "Runo",
+    "p": "VA"
   },
   {
     "cc": "F345",
@@ -1850,9 +1845,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "M336",
     "id": "Colverde",
-    "p": ""
+    "p": "CO"
   },
   {
     "cc": "G059",
@@ -1865,9 +1860,9 @@
     "p": "CO"
   },
   {
-    "cc": "",
-    "id": "Tremezzina (comune)",
-    "p": ""
+    "cc": "M341",
+    "id": "Tremezzina",
+    "p": "CO"
   },
   {
     "cc": "D908",
@@ -1880,9 +1875,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
-    "id": "Frontignano (Barbariga)",
-    "p": ""
+    "cc": "D806",
+    "id": "Frontignano",
+    "p": "BS"
   },
   {
     "cc": "D418",
@@ -1895,9 +1890,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "C144",
     "id": "Castellaro de' Giorgi",
-    "p": ""
+    "p": "PV"
   },
   {
     "cc": "B148",
@@ -1908,11 +1903,6 @@
     "cc": "E733",
     "id": "Luignano",
     "p": "CR"
-  },
-  {
-    "cc": "",
-    "id": "Traversa",
-    "p": ""
   },
   {
     "cc": "L867",
@@ -1935,9 +1925,9 @@
     "p": "BG"
   },
   {
-    "cc": "",
+    "cc": "A679",
     "id": "Barzizza",
-    "p": ""
+    "p": "BG"
   },
   {
     "cc": "E293",
@@ -1955,9 +1945,9 @@
     "p": "VA"
   },
   {
-    "cc": "",
+    "cc": "H626",
     "id": "Rubbiano",
-    "p": ""
+    "p": "CR"
   },
   {
     "cc": "A939",
@@ -1965,9 +1955,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "B347",
     "id": "Cadrezzate con Osmate",
-    "p": ""
+    "p": "VA"
   },
   {
     "cc": "I572",
@@ -1990,9 +1980,9 @@
     "p": "MI"
   },
   {
-    "cc": "",
+    "cc": "F971",
     "id": "Nozza",
-    "p": ""
+    "p": "BS"
   },
   {
     "cc": "G562",
@@ -2005,9 +1995,9 @@
     "p": "BG"
   },
   {
-    "cc": "",
-    "id": "Pontecarate",
-    "p": ""
+    "cc": "G835",
+    "id": "Ponte Carate",
+    "p": "PV"
   },
   {
     "cc": "G586",
@@ -2045,14 +2035,9 @@
     "p": "PV"
   },
   {
-    "cc": "",
-    "id": "Cascina Grazzanello",
-    "p": ""
-  },
-  {
-    "cc": "",
-    "id": "Armo (Valvestino)",
-    "p": ""
+    "cc": "A417",
+    "id": "Armo",
+    "p": "BS"
   },
   {
     "cc": "A384",
@@ -2060,9 +2045,9 @@
     "p": "CR"
   },
   {
-    "cc": "",
-    "id": "Muggiano (Milano)",
-    "p": ""
+    "cc": "F796",
+    "id": "Muggiano",
+    "p": "MI"
   },
   {
     "cc": "B316",
@@ -2125,14 +2110,9 @@
     "p": "CO"
   },
   {
-    "cc": "",
-    "id": "Rezzonico (Italia)",
-    "p": ""
-  },
-  {
-    "cc": "",
-    "id": "Sant'Ambrogio Olona",
-    "p": ""
+    "cc": "H260",
+    "id": "Rezzonico",
+    "p": "CO"
   },
   {
     "cc": "D446",
@@ -2150,9 +2130,9 @@
     "p": "PV"
   },
   {
-    "cc": "",
-    "id": "San Gallo (San Giovanni Bianco)",
-    "p": ""
+    "cc": "H854",
+    "id": "San Gallo",
+    "p": "BG"
   },
   {
     "cc": "G958",
