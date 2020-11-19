@@ -20,14 +20,14 @@ def remove_duplicates(town_list):
 
 
 def add_suppressed_towns_and_sort():
-    with open('files/comuni_soppressi_sorted.json') as suppressed_sorted:
-        suppressed_sorted_list = json.load(suppressed_sorted)['towns']
-        with open('files/comuni_sorted.json') as sorted:
+    with open('files/lombardia_soppressi.json') as suppressed_sorted:
+        suppressed_sorted_list = json.load(suppressed_sorted)
+        with open('files/comuni_nuovi_e_soppressi.json') as sorted:
             sorted_list = json.load(sorted)['towns']
 
             merge_list = remove_duplicates(suppressed_sorted_list + sorted_list)
             merge_list.sort(key=lambda s: s['id'])
-            write_json(merge_list, "nuovi_e_soppressi")
+            write_json(merge_list, "nuovi_e_soppressi_con_lombardia")
 
 
 if __name__ == '__main__':
